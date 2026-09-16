@@ -1,5 +1,162 @@
 {
-  "updatedAt": null,
+  "updatedAt": "2026-09-16T03:15:00Z",
   "source": "audrey-job-feed",
-  "jobs": []
+  "jobs": [
+    {
+      "id": "public-health-solutions-sr-salesforce-business-analyst",
+      "title": "Sr. Salesforce Business Analyst",
+      "company": "Public Health Solutions (NYC)",
+      "location": "Long Island City, NY",
+      "salary": "$115,000 a year",
+      "fit": 95,
+      "resume": "A",
+      "why": "Very strong match for Audrey's Salesforce transformation background: business analysis, cross-functional process improvement, stakeholder work, requirements, UAT, and operational change all align closely.",
+      "gap": "The senior title may expect deeper end-to-end Salesforce ownership or administration depth than Audrey has explicitly shown on her resume.",
+      "applyUrl": "https://to.indeed.com/aa4mrcrfnky7"
+    },
+    {
+      "id": "judge-group-salesforce-business-analyst-nyc",
+      "title": "Salesforce Business Analyst",
+      "company": "The Judge Group",
+      "location": "New York, NY",
+      "salary": "$90,000 - $125,000 estimated",
+      "fit": 94,
+      "resume": "A",
+      "why": "Exact role-family match. The posting emphasizes Salesforce, enterprise applications, and serving as a liaison across business stakeholders, Finance, Sales, and IT, which mirrors Audrey's requirements and transformation experience.",
+      "gap": "Commercial and revenue-growth-management domain experience is not prominent on Audrey's resume, so she should foreground transferable process and stakeholder work.",
+      "applyUrl": "https://click.appcast.io/t/CqT1Vf4iX-3ygJwQnxJ03a038nykZ2mv5aGIZ-yuoT1Gr6XP2Y1RzheH7DyY89l2MfD9fkNIq_l6qS8jjjOy4A==?sar_id=2a4xhonx&jpos=1"
+    },
+    {
+      "id": "vns-health-senior-business-systems-analyst",
+      "title": "Senior Business Systems Analyst",
+      "company": "VNS Health",
+      "location": "New York, NY",
+      "salary": "$93,400 - $116,800 a year",
+      "fit": 93,
+      "resume": "A",
+      "why": "Strong overlap with Audrey's experience translating business needs into practical system solutions, working with operational leaders and technical teams, documenting requirements, and supporting process change.",
+      "gap": "The role expects independent leadership across multiple initiatives, so Audrey should emphasize ownership of transformation work and measurable delivery outcomes.",
+      "applyUrl": "https://click.appcast.io/t/hdAEKlE4fil96zkWA_gX--ARx3Ra1ysleRSvHpwhN_xXtVZZh9vXf1kV_7iKyo2LXCL_fjxhlkfpNMq8bnWtbQ==?sar_id=2a4xhonn&jpos=1"
+    },
+    {
+      "id": "hearst-ae-business-analyst-technology",
+      "title": "Business Analyst, Technology - Multiple roles",
+      "company": "A+E Global Media / Hearst Networks",
+      "location": "New York, NY",
+      "salary": "$97,391 - $112,000 a year",
+      "fit": 92,
+      "resume": "A",
+      "why": "Technology business analysis plus Audrey's prior media-agency background makes this unusually relevant. Requirements, testing, process documentation, and cross-functional delivery are central strengths for her.",
+      "gap": "The exact technology stack and team-specific requirements should be checked before applying because the listing covers multiple roles.",
+      "applyUrl": "https://to.indeed.com/aacxgfxs8vyx"
+    },
+    {
+      "id": "bloomberg-product-analyst-quote-to-bill",
+      "title": "Product Analyst - Product Lifecycle Management (Quote-to-Bill)",
+      "company": "Bloomberg",
+      "location": "New York, NY",
+      "salary": "$115,000 - $140,000 a year",
+      "fit": 92,
+      "resume": "C",
+      "why": "Excellent bridge from business analysis into product operations. The role centers on systems, processes, lifecycle operations, and cross-functional execution, all closely related to Audrey's transformation and workflow experience.",
+      "gap": "Quote-to-bill and product-lifecycle domain knowledge may be newer for Audrey, so she should connect her Salesforce workflow and process-mapping experience directly to those concepts.",
+      "applyUrl": "https://click.appcast.io/t/qovKwuwWyAG1ttB8fn0fFWQdpfHG38s17hLrRQDeD6gD8SA8Vm33AdbUZCRqMEIHwW29W_osbfY_JvGjl_CcXQ==?sar_id=2a4xhpfz&jpos=2"
+    },
+    {
+      "id": "madhive-business-operations-analyst",
+      "title": "Business Operations Analyst",
+      "company": "Madhive",
+      "location": "New York, NY",
+      "salary": "$95,000 - $120,000 a year",
+      "fit": 91,
+      "resume": "C",
+      "why": "Strong business-operations match with a useful media-tech connection to Audrey's earlier media strategy experience. Her analytics, reporting, process improvement, and cross-functional execution background should transfer well.",
+      "gap": "Audrey should make the operations and analytics impact of her prior roles explicit so the move from formal BA work feels intentional rather than indirect.",
+      "applyUrl": "https://to.indeed.com/aa8vqgfmw2b4"
+    },
+    {
+      "id": "macquarie-associate-business-analyst-client",
+      "title": "Associate Business Analyst, Client",
+      "company": "Macquarie Group",
+      "location": "New York, NY",
+      "salary": "$145,000 - $165,000 a year",
+      "fit": 90,
+      "resume": "A",
+      "why": "The role sits within a digital-solutions function focused on digitalization, scalability, operational efficiency, risk management, and client and employee experience. That maps well to Audrey's transformation, systems, and stakeholder background.",
+      "gap": "Financial-services domain knowledge may be preferred, and the compensation suggests a high bar despite the Associate title.",
+      "applyUrl": "https://to.indeed.com/aa7m7qhqlh8l"
+    },
+    {
+      "id": "icapital-product-operations-associate",
+      "title": "Product Operations - Associate",
+      "company": "iCapital",
+      "location": "New York, NY",
+      "salary": "$85,000 - $100,000 a year",
+      "fit": 90,
+      "resume": "C",
+      "why": "The role is explicitly at the intersection of client operations, technology integration, and strategic execution, which is a strong match for Audrey's systems-analysis, process-improvement, UAT, and stakeholder experience.",
+      "gap": "The annuities and alternative-investments domain is new, so Audrey would need to demonstrate fast domain learning and transferable operational rigor.",
+      "applyUrl": "https://to.indeed.com/aa72qcsryjsk"
+    },
+    {
+      "id": "brookfield-analyst-business-applications",
+      "title": "Analyst, Business Applications",
+      "company": "Brookfield Asset Management",
+      "location": "New York, NY",
+      "salary": "$85,000 - $95,000 a year",
+      "fit": 90,
+      "resume": "A",
+      "why": "Enterprise applications is a natural extension of Audrey's Salesforce and transformation experience. Her requirements gathering, troubleshooting, process documentation, UAT, reporting, and user-support work are directly relevant.",
+      "gap": "The role may require broader enterprise-application exposure beyond Salesforce, so she should emphasize adaptability across systems and business processes.",
+      "applyUrl": "https://to.indeed.com/aanyqwzf2tzk"
+    },
+    {
+      "id": "cadent-revenue-operations-analyst",
+      "title": "Revenue Operations Analyst",
+      "company": "Cadent",
+      "location": "New York, NY",
+      "salary": "$80,000 - $90,000 a year",
+      "fit": 89,
+      "resume": "C",
+      "why": "A strong adjacent role because Audrey combines media-industry experience with CRM, reporting, analytics, and workflow improvement. Cadent's ad-tech context makes her prior media background more relevant than it would be in a generic RevOps role.",
+      "gap": "Revenue-operations metrics and go-to-market ownership are not the core of Audrey's recent experience, so she should position CRM and reporting work as the bridge.",
+      "applyUrl": "https://to.indeed.com/aamwfgvzm6g7"
+    },
+    {
+      "id": "morgan-stanley-associate-ux-designer-equity-zen",
+      "title": "Associate, UX Designer - Equity Zen",
+      "company": "Morgan Stanley",
+      "location": "New York, NY",
+      "salary": "$58,000 - $115,000 a year",
+      "fit": 84,
+      "resume": "B",
+      "why": "One of the better UX-transition targets because it is an Associate-level UX role. Audrey can combine 700+ hours of formal UX training, Figma, research, prototyping, usability testing, and real enterprise UAT and user-feedback experience.",
+      "gap": "The salary range starts below Audrey's $80K target and she has less direct professional UX-design tenure than candidates coming from dedicated design roles.",
+      "applyUrl": "https://to.indeed.com/aajmgltxjxzy"
+    },
+    {
+      "id": "nyu-usability-analyst",
+      "title": "Usability Analyst",
+      "company": "New York University",
+      "location": "New York, NY",
+      "salary": "$77,000 - $88,000 a year",
+      "fit": 83,
+      "resume": "B",
+      "why": "Strong match to Audrey's usability-testing and research training, with an additional advantage from her professional UAT, documentation, stakeholder, and user-feedback experience.",
+      "gap": "The low end is below her $80K target, and a dedicated usability-research candidate may have more professional research hours.",
+      "applyUrl": "https://to.indeed.com/aawgl6qsxkgv"
+    },
+    {
+      "id": "elevate-hr-user-interface-designer",
+      "title": "User Interface Designer",
+      "company": "Elevate HR",
+      "location": "New York, NY",
+      "salary": "$115,000 - $148,000 a year",
+      "fit": 79,
+      "resume": "B",
+      "why": "The enterprise HR-tech and integration setting gives Audrey's business-systems background an advantage over a purely visual designer, while her UX training provides the Figma, interaction, prototyping, and design-system foundation.",
+      "gap": "This is more UI-craft intensive than Audrey's recent professional work, so portfolio polish and evidence of visual design depth will matter heavily.",
+      "applyUrl": "https://to.indeed.com/aay9w4g6dtnj"
+    }
+  ]
 }
