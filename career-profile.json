@@ -1,56 +1,118 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "owner": "Audrey",
-  "scope": "audrey-only",
-  "resumeReviewStatus": "pending",
-  "updatedAt": null,
-  "careerProfile": {
-    "professionalSummary": null,
-    "yearsOfExperience": null,
-    "targetSeniority": [],
-    "coreSkills": [],
-    "domainExperience": [],
-    "transferableStrengths": [],
-    "educationSummary": null,
-    "certifications": []
-  },
+  "scope": "audrey-only-public-search-config",
+  "resumeReviewStatus": "reviewed",
+  "updatedAt": "2026-09-15",
   "searchCriteria": {
-    "targetTitles": [],
-    "adjacentTitles": [],
-    "excludedTitles": [],
-    "preferredIndustries": [],
-    "excludedIndustries": [],
-    "employmentTypes": [],
-    "workArrangements": [],
-    "locations": [],
-    "minimumBaseSalary": null,
-    "targetBaseSalary": null,
-    "requiredKeywords": [],
-    "preferredKeywords": [],
-    "excludedKeywords": [],
-    "mustHaveRequirements": [],
-    "dealBreakers": []
+    "targetTitles": [
+      "Salesforce Business Analyst",
+      "Business Systems Analyst",
+      "CRM Business Analyst",
+      "Business Analyst",
+      "Business Applications Analyst",
+      "Technology Business Analyst",
+      "Transformation Analyst",
+      "Process Improvement Analyst",
+      "Product Operations Analyst",
+      "Product Analyst",
+      "UX Designer",
+      "UX/UI Designer",
+      "Associate Product Designer",
+      "Product Designer"
+    ],
+    "adjacentTitles": [
+      "Systems Analyst",
+      "Implementation Analyst",
+      "Solutions Analyst",
+      "Operations Analyst",
+      "Business Operations Analyst",
+      "Customer Experience Analyst",
+      "UX Analyst",
+      "Experience Designer",
+      "Junior Product Designer"
+    ],
+    "excludedTitles": [
+      "Lead Product Designer",
+      "Principal Product Designer",
+      "UX Director",
+      "Engineering Manager",
+      "Software Engineer",
+      "Salesforce Developer",
+      "Salesforce Architect"
+    ],
+    "employmentTypes": ["Full-time"],
+    "workArrangements": ["Remote", "Hybrid", "On-site"],
+    "locationPreset": "NYC / Long Island / Remote",
+    "minimumBaseSalary": 80000,
+    "preferredKeywords": [
+      "Salesforce",
+      "requirements",
+      "user stories",
+      "UAT",
+      "process improvement",
+      "workflow automation",
+      "stakeholder",
+      "CRM",
+      "data governance",
+      "product",
+      "user research",
+      "usability testing",
+      "Figma",
+      "prototyping"
+    ],
+    "dealBreakers": [
+      "Primarily software-development role",
+      "Primarily visual or brand design role",
+      "Commission-only compensation",
+      "Unpaid role",
+      "Relocation required outside the selected search area"
+    ]
   },
   "resumeTracks": {
     "A": {
-      "label": null,
-      "targetRoles": [],
-      "status": "unassigned"
+      "label": "Salesforce & Business Systems",
+      "targetRoles": [
+        "Salesforce Business Analyst",
+        "Business Systems Analyst",
+        "CRM Business Analyst",
+        "Business Applications Analyst",
+        "Technology Business Analyst",
+        "Transformation Analyst"
+      ],
+      "priority": "primary"
     },
     "B": {
-      "label": null,
-      "targetRoles": [],
-      "status": "unassigned"
+      "label": "UX & Product Design",
+      "targetRoles": [
+        "UX Designer",
+        "UX/UI Designer",
+        "Associate Product Designer",
+        "Junior Product Designer",
+        "Product Designer",
+        "Experience Designer"
+      ],
+      "priority": "secondary-transition"
     },
     "C": {
-      "label": null,
-      "targetRoles": [],
-      "status": "unassigned"
+      "label": "Product & Business Operations",
+      "targetRoles": [
+        "Product Operations Analyst",
+        "Product Analyst",
+        "Business Operations Analyst",
+        "Operations Analyst",
+        "Implementation Analyst",
+        "Process Improvement Analyst"
+      ],
+      "priority": "secondary"
     }
   },
   "privacy": {
     "commitResumeFile": false,
     "commitContactInformation": false,
-    "notes": "Keep resume files, contact information, authentication data, and private application data out of the public repository. This file is only for generalized Audrey-specific search metadata."
+    "commitResumeDerivedCareerHistory": false,
+    "commitAuthenticationData": false,
+    "commitPrivateApplicationData": false,
+    "notes": "Public repository stores only generalized job-search configuration. Detailed resume-derived profile belongs in Audrey's private data store."
   }
 }
