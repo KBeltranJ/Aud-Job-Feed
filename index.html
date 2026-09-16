@@ -8,6 +8,7 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="cloud-sync.css">
 </head>
 <body>
   <div class="app-shell">
@@ -15,13 +16,8 @@
       <div>
         <div class="eyebrow">PERSONAL JOB DASHBOARD</div>
         <h1>Audrey Job Feed</h1>
-        <div id="cloudStatus" class="subtle">Audrey-only cloud ready · sign-in setup pending</div>
       </div>
-      <div class="actions">
-        <button id="googleSignInBtn" class="ghost-btn">Sign in with Google</button>
-        <button id="signOutBtn" class="ghost-btn hidden">Sign out</button>
-        <button id="installBtn" class="ghost-btn hidden">Install</button>
-      </div>
+      <button id="installBtn" class="ghost-btn hidden">Install</button>
     </header>
 
     <main>
@@ -78,6 +74,8 @@
           <h2>Job preferences</h2>
           <p>These settings filter the Today feed and can sync privately across Audrey's devices after sign-in.</p>
         </section>
+
+        <div id="syncPanelMount"></div>
 
         <section class="panel muted-panel privacy-note">
           <strong>Audrey-only cloud</strong>
