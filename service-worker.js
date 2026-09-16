@@ -1,5 +1,5 @@
-const CACHE="audrey-job-feed-v3";
-const ASSETS=["./","./index.html","./styles.css","./cloud-sync.css","./app.js","./career-defaults.js","./cloud-sync.js","./supabase-config.js","./manifest.webmanifest","./jobs.json","./applied-index.json","./icon.svg"];
+const CACHE="audrey-job-feed-v4";
+const ASSETS=["./","./index.html","./styles.css","./cloud-sync.css","./app.js","./career-defaults.js","./cloud-sync.js","./refresh-recommendations.js","./supabase-config.js","./manifest.webmanifest","./jobs.json","./applied-index.json","./icon.svg"];
 
 self.addEventListener("install",event=>{
   event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS)));
