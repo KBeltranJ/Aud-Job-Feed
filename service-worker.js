@@ -1,4 +1,4 @@
-const CACHE="audrey-job-feed-v4";
+const CACHE="audrey-job-feed-v5";
 const ASSETS=["./","./index.html","./styles.css","./cloud-sync.css","./app.js","./career-defaults.js","./cloud-sync.js","./refresh-recommendations.js","./supabase-config.js","./manifest.webmanifest","./jobs.json","./applied-index.json","./icon.svg"];
 
 self.addEventListener("install",event=>{
