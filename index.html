@@ -15,8 +15,13 @@
       <div>
         <div class="eyebrow">PERSONAL JOB DASHBOARD</div>
         <h1>Audrey Job Feed</h1>
+        <div id="cloudStatus" class="subtle">Audrey-only cloud ready · sign-in setup pending</div>
       </div>
-      <button id="installBtn" class="ghost-btn hidden">Install</button>
+      <div class="actions">
+        <button id="googleSignInBtn" class="ghost-btn">Sign in with Google</button>
+        <button id="signOutBtn" class="ghost-btn hidden">Sign out</button>
+        <button id="installBtn" class="ghost-btn hidden">Install</button>
+      </div>
     </header>
 
     <main>
@@ -25,7 +30,7 @@
           <div>
             <div class="eyebrow hero-eyebrow">TODAY</div>
             <h2>Find the right next role.</h2>
-            <p>This feed is completely separate from Kevin's Job Agent. Audrey's job criteria and resume tracks will be customized in a later step.</p>
+            <p>Audrey's feed, criteria, resumes, and application history are isolated from Kevin's Job Agent.</p>
           </div>
           <div class="hero-stat"><span id="matchCount">0</span><small>matches</small></div>
         </section>
@@ -52,7 +57,7 @@
         <section class="page-header">
           <div class="eyebrow">SAVED JOBS</div>
           <h2>Jobs to come back to.</h2>
-          <p>Saved jobs remain on this device even after the daily feed changes.</p>
+          <p>Saved jobs sync to Audrey's private account after sign-in and remain cached locally for offline use.</p>
         </section>
         <div id="savedJobsList" class="jobs-list"></div>
       </section>
@@ -71,12 +76,12 @@
         <section class="page-header">
           <div class="eyebrow">AUDREY'S CRITERIA</div>
           <h2>Job preferences</h2>
-          <p>These settings filter the jobs shown on the Today screen. We will customize the tracks after reviewing Audrey's background.</p>
+          <p>These settings filter the Today feed and can sync privately across Audrey's devices after sign-in.</p>
         </section>
 
         <section class="panel muted-panel privacy-note">
-          <strong>Local-only build</strong>
-          <p>Cloud sync is intentionally disconnected right now. This app is not connected to Kevin's Supabase project or Kevin's private job data.</p>
+          <strong>Audrey-only cloud</strong>
+          <p>This app is connected only to Audrey's separate Supabase project. Kevin's Supabase project, resumes, applications, and private job data are not referenced.</p>
         </section>
 
         <section class="panel">
@@ -108,11 +113,11 @@
           <div class="criteria-group">
             <span class="field-label">Resume / role tracks</span>
             <div class="chips" id="trackChips">
-              <button type="button" class="chip active" data-track="A">Track A</button>
-              <button type="button" class="chip active" data-track="B">Track B</button>
-              <button type="button" class="chip active" data-track="C">Track C</button>
+              <button type="button" class="chip active" data-track="A">A · Salesforce / Business Systems</button>
+              <button type="button" class="chip active" data-track="B">B · UX / Product Design</button>
+              <button type="button" class="chip active" data-track="C">C · Product / Business Operations</button>
             </div>
-            <p class="subtle">These are placeholders until Audrey's resume and target roles are reviewed.</p>
+            <p class="subtle">Tracks were defined from Audrey's reviewed 2026 resumes.</p>
           </div>
           <button id="saveCriteria" class="primary-btn full">Save & apply criteria</button>
           <p id="saveMessage" class="save-message"></p>
@@ -123,27 +128,27 @@
         <section class="page-header">
           <div class="eyebrow">RESUME LIBRARY</div>
           <h2>Audrey's resumes.</h2>
-          <p>For Step 2, resume files are stored only in this browser on this device. Separate cloud storage will be added later.</p>
+          <p>Files stay in Audrey's local browser cache and, after sign-in, sync to Audrey's private Supabase Storage bucket.</p>
         </section>
 
         <div class="resume-grid">
           <section class="resume-card" data-resume="A">
             <span class="resume-letter">A</span>
-            <div class="resume-body"><strong>Track A Resume</strong><p>Role focus will be defined after Audrey's career profile is reviewed.</p><p class="resume-file-status" id="resumeStatusA">No file added yet.</p><div class="resume-actions"><label class="action-btn upload-btn">Add / replace<input class="resume-file-input" type="file" data-resume-slot="A" accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"></label><button class="action-btn resume-view" data-resume-slot="A" disabled>Open</button><button class="action-btn resume-download" data-resume-slot="A" disabled>Download</button><button class="action-btn resume-remove" data-resume-slot="A" disabled>Remove</button></div></div>
+            <div class="resume-body"><strong>Salesforce / Business Systems Resume</strong><p>Business analysis, Salesforce transformation, requirements, UAT, automation, and stakeholder delivery.</p><p class="resume-file-status" id="resumeStatusA">No file added yet.</p><div class="resume-actions"><label class="action-btn upload-btn">Add / replace<input class="resume-file-input" type="file" data-resume-slot="A" accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"></label><button class="action-btn resume-view" data-resume-slot="A" disabled>Open</button><button class="action-btn resume-download" data-resume-slot="A" disabled>Download</button><button class="action-btn resume-remove" data-resume-slot="A" disabled>Remove</button></div></div>
           </section>
           <section class="resume-card" data-resume="B">
             <span class="resume-letter">B</span>
-            <div class="resume-body"><strong>Track B Resume</strong><p>Role focus will be defined after Audrey's career profile is reviewed.</p><p class="resume-file-status" id="resumeStatusB">No file added yet.</p><div class="resume-actions"><label class="action-btn upload-btn">Add / replace<input class="resume-file-input" type="file" data-resume-slot="B" accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"></label><button class="action-btn resume-view" data-resume-slot="B" disabled>Open</button><button class="action-btn resume-download" data-resume-slot="B" disabled>Download</button><button class="action-btn resume-remove" data-resume-slot="B" disabled>Remove</button></div></div>
+            <div class="resume-body"><strong>UX / Product Design Resume</strong><p>UX/UI training, research, wireframing, prototyping, usability testing, and enterprise user experience.</p><p class="resume-file-status" id="resumeStatusB">No file added yet.</p><div class="resume-actions"><label class="action-btn upload-btn">Add / replace<input class="resume-file-input" type="file" data-resume-slot="B" accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"></label><button class="action-btn resume-view" data-resume-slot="B" disabled>Open</button><button class="action-btn resume-download" data-resume-slot="B" disabled>Download</button><button class="action-btn resume-remove" data-resume-slot="B" disabled>Remove</button></div></div>
           </section>
           <section class="resume-card" data-resume="C">
             <span class="resume-letter">C</span>
-            <div class="resume-body"><strong>Track C Resume</strong><p>Role focus will be defined after Audrey's career profile is reviewed.</p><p class="resume-file-status" id="resumeStatusC">No file added yet.</p><div class="resume-actions"><label class="action-btn upload-btn">Add / replace<input class="resume-file-input" type="file" data-resume-slot="C" accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"></label><button class="action-btn resume-view" data-resume-slot="C" disabled>Open</button><button class="action-btn resume-download" data-resume-slot="C" disabled>Download</button><button class="action-btn resume-remove" data-resume-slot="C" disabled>Remove</button></div></div>
+            <div class="resume-body"><strong>Product / Business Operations Resume</strong><p>Cross-functional operations, analytics, process improvement, implementation, and product-adjacent work.</p><p class="resume-file-status" id="resumeStatusC">No file added yet.</p><div class="resume-actions"><label class="action-btn upload-btn">Add / replace<input class="resume-file-input" type="file" data-resume-slot="C" accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"></label><button class="action-btn resume-view" data-resume-slot="C" disabled>Open</button><button class="action-btn resume-download" data-resume-slot="C" disabled>Download</button><button class="action-btn resume-remove" data-resume-slot="C" disabled>Remove</button></div></div>
           </section>
         </div>
 
         <section class="panel muted-panel privacy-note">
           <strong>Private by separation</strong>
-          <p>No Kevin resumes, applications, notes, account identifiers, or Supabase credentials are included in this repository.</p>
+          <p>Cloud resume objects are private and scoped to Audrey's authenticated user ID. No Kevin resumes, applications, notes, account identifiers, or Supabase configuration are used.</p>
         </section>
       </section>
     </main>
@@ -157,6 +162,9 @@
     </nav>
   </div>
 
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.116.0/dist/umd/supabase.min.js" integrity="sha256-" crossorigin="anonymous"></script>
+  <script src="supabase-config.js"></script>
   <script src="app.js"></script>
+  <script src="cloud-sync.js"></script>
 </body>
 </html>
