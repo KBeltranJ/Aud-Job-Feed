@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T03:15:00Z",
+  "updatedAt": "2026-09-16T03:18:00Z",
   "source": "audrey-job-feed",
   "jobs": [
     {
@@ -13,18 +13,6 @@
       "why": "Very strong match for Audrey's Salesforce transformation background: business analysis, cross-functional process improvement, stakeholder work, requirements, UAT, and operational change all align closely.",
       "gap": "The senior title may expect deeper end-to-end Salesforce ownership or administration depth than Audrey has explicitly shown on her resume.",
       "applyUrl": "https://to.indeed.com/aa4mrcrfnky7"
-    },
-    {
-      "id": "judge-group-salesforce-business-analyst-nyc",
-      "title": "Salesforce Business Analyst",
-      "company": "The Judge Group",
-      "location": "New York, NY",
-      "salary": "$90,000 - $125,000 estimated",
-      "fit": 94,
-      "resume": "A",
-      "why": "Exact role-family match. The posting emphasizes Salesforce, enterprise applications, and serving as a liaison across business stakeholders, Finance, Sales, and IT, which mirrors Audrey's requirements and transformation experience.",
-      "gap": "Commercial and revenue-growth-management domain experience is not prominent on Audrey's resume, so she should foreground transferable process and stakeholder work.",
-      "applyUrl": "https://click.appcast.io/t/CqT1Vf4iX-3ygJwQnxJ03a038nykZ2mv5aGIZ-yuoT1Gr6XP2Y1RzheH7DyY89l2MfD9fkNIq_l6qS8jjjOy4A==?sar_id=2a4xhonx&jpos=1"
     },
     {
       "id": "vns-health-senior-business-systems-analyst",
@@ -109,6 +97,18 @@
       "why": "Enterprise applications is a natural extension of Audrey's Salesforce and transformation experience. Her requirements gathering, troubleshooting, process documentation, UAT, reporting, and user-support work are directly relevant.",
       "gap": "The role may require broader enterprise-application exposure beyond Salesforce, so she should emphasize adaptability across systems and business processes.",
       "applyUrl": "https://to.indeed.com/aanyqwzf2tzk"
+    },
+    {
+      "id": "success-academy-salesforce-administrator",
+      "title": "Salesforce Administrator",
+      "company": "Success Academy Charter Schools",
+      "location": "New York, NY",
+      "salary": "$110,000 - $120,000 a year",
+      "fit": 89,
+      "resume": "A",
+      "why": "Audrey's hands-on Salesforce Flow, Reports, Dashboards, Lightning, Knowledge, automation, training, and user-support work creates a credible path into a Salesforce administration role.",
+      "gap": "This role may expect deeper platform administration and configuration ownership than her resume currently emphasizes, so certifications or detailed admin examples would strengthen the application.",
+      "applyUrl": "https://click.appcast.io/t/KfmHwxEV7FuzBNzI-VDcDYbs5CDHkeh73Gc7mENuG8JpQ5ANQhwDkLVk3mYnT_JYCYsekNuMDHrET4UIoQatGw==?sar_id=2a4xhonn&jpos=11"
     },
     {
       "id": "cadent-revenue-operations-analyst",
