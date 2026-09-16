@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "owner": "Audrey",
+  "scope": "audrey-only",
+  "resumeReviewStatus": "pending",
+  "updatedAt": null,
+  "careerProfile": {
+    "professionalSummary": null,
+    "yearsOfExperience": null,
+    "targetSeniority": [],
+    "coreSkills": [],
+    "domainExperience": [],
+    "transferableStrengths": [],
+    "educationSummary": null,
+    "certifications": []
+  },
+  "searchCriteria": {
+    "targetTitles": [],
+    "adjacentTitles": [],
+    "excludedTitles": [],
+    "preferredIndustries": [],
+    "excludedIndustries": [],
+    "employmentTypes": [],
+    "workArrangements": [],
+    "locations": [],
+    "minimumBaseSalary": null,
+    "targetBaseSalary": null,
+    "requiredKeywords": [],
+    "preferredKeywords": [],
+    "excludedKeywords": [],
+    "mustHaveRequirements": [],
+    "dealBreakers": []
+  },
+  "resumeTracks": {
+    "A": {
+      "label": null,
+      "targetRoles": [],
+      "status": "unassigned"
+    },
+    "B": {
+      "label": null,
+      "targetRoles": [],
+      "status": "unassigned"
+    },
+    "C": {
+      "label": null,
+      "targetRoles": [],
+      "status": "unassigned"
+    }
+  },
+  "privacy": {
+    "commitResumeFile": false,
+    "commitContactInformation": false,
+    "notes": "Keep resume files, contact information, authentication data, and private application data out of the public repository. This file is only for generalized Audrey-specific search metadata."
+  }
+}
