@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#111827">
+  <title>Audrey Job Feed</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div>
+        <div class="eyebrow">PERSONAL JOB DASHBOARD</div>
+        <h1>Audrey Job Feed</h1>
+      </div>
+      <button id="installBtn" class="ghost-btn hidden">Install</button>
+    </header>
+
+    <main>
+      <section id="todayView" class="view active-view">
+        <section class="hero">
+          <div>
+            <div class="eyebrow hero-eyebrow">TODAY</div>
+            <h2>Find the right next role.</h2>
+            <p>This feed is completely separate from Kevin's Job Agent. Audrey's job criteria and resume tracks will be customized in a later step.</p>
+          </div>
+          <div class="hero-stat"><span id="matchCount">0</span><small>matches</small></div>
+        </section>
+
+        <section class="quick-stats">
+          <div class="stat-card"><span class="stat-label">Minimum salary</span><strong id="minSalaryDisplay">Any</strong></div>
+          <div class="stat-card"><span class="stat-label">Top fit</span><strong id="topFitDisplay">—</strong></div>
+          <div class="stat-card"><span class="stat-label">Saved</span><strong id="savedCount">0</strong></div>
+          <div class="stat-card"><span class="stat-label">Applied</span><strong id="appliedCount">0</strong></div>
+        </section>
+
+        <section class="section-heading">
+          <div>
+            <div class="eyebrow">DAILY MATCHES</div>
+            <h3>Recommended jobs</h3>
+            <p id="feedStatus" class="subtle"></p>
+          </div>
+          <button id="refreshJobs" class="text-btn">Refresh</button>
+        </section>
+        <div id="jobsList" class="jobs-list"></div>
+      </section>
+
+      <section id="savedView" class="view hidden">
+        <section class="page-header">
+          <div class="eyebrow">SAVED JOBS</div>
+          <h2>Jobs to come back to.</h2>
+          <p>Saved jobs remain on this device even after the daily feed changes.</p>
+        </section>
+        <div id="savedJobsList" class="jobs-list"></div>
+      </section>
+
+      <section id="appliedView" class="view hidden">
+        <section class="page-header">
+          <div class="eyebrow">APPLICATION TRACKER</div>
+          <h2>Everything Audrey applied to.</h2>
+          <p>Track application date, stage, notes, resume used, and the original posting.</p>
+          <button id="exportApplications" class="ghost-btn">Export applications</button>
+        </section>
+        <div id="appliedJobsList" class="jobs-list"></div>
+      </section>
+
+      <section id="criteriaView" class="view hidden">
+        <section class="page-header">
+          <div class="eyebrow">AUDREY'S CRITERIA</div>
+          <h2>Job preferences</h2>
+          <p>These settings filter the jobs shown on the Today screen. We will customize the tracks after reviewing Audrey's background.</p>
+        </section>
+
+        <section class="panel muted-panel privacy-note">
+          <strong>Local-only build</strong>
+          <p>Cloud sync is intentionally disconnected right now. This app is not connected to Kevin's Supabase project or Kevin's private job data.</p>
+        </section>
+
+        <section class="panel">
+          <div class="form-grid">
+            <label>Minimum salary
+              <select id="minSalary">
+                <option value="0">Any salary</option>
+                <option value="50000">$50,000+</option>
+                <option value="60000">$60,000+</option>
+                <option value="70000">$70,000+</option>
+                <option value="80000">$80,000+</option>
+                <option value="90000">$90,000+</option>
+                <option value="100000">$100,000+</option>
+                <option value="110000">$110,000+</option>
+                <option value="120000">$120,000+</option>
+              </select>
+            </label>
+            <label>Location
+              <select id="locationPref">
+                <option>All locations</option>
+                <option>Remote only</option>
+                <option>NYC / Long Island / Remote</option>
+                <option>NYC only</option>
+                <option>NYC + Long Island</option>
+              </select>
+            </label>
+          </div>
+
+          <div class="criteria-group">
+            <span class="field-label">Resume / role tracks</span>
+            <div class="chips" id="trackChips">
+              <button type="button" class="chip active" data-track="A">Track A</button>
+              <button type="button" class="chip active" data-track="B">Track B</button>
+              <button type="button" class="chip active" data-track="C">Track C</button>
+            </div>
+            <p class="subtle">These are placeholders until Audrey's resume and target roles are reviewed.</p>
+          </div>
+          <button id="saveCriteria" class="primary-btn full">Save & apply criteria</button>
+          <p id="saveMessage" class="save-message"></p>
+        </section>
+      </section>
+
+      <section id="resumesView" class="view hidden">
+        <section class="page-header">
+          <div class="eyebrow">RESUME LIBRARY</div>
+          <h2>Audrey's resumes.</h2>
+          <p>For Step 2, resume files are stored only in this browser on this device. Separate cloud storage will be added later.</p>
+        </section>
+
+        <div class="resume-grid">
+          <section class="resume-card" data-resume="A">
+            <span class="resume-letter">A</span>
+            <div class="resume-body"><strong>Track A Resume</strong><p>Role focus will be defined after Audrey's career profile is reviewed.</p><p class="resume-file-status" id="resumeStatusA">No file added yet.</p><div class="resume-actions"><label class="action-btn upload-btn">Add / replace<input class="resume-file-input" type="file" data-resume-slot="A" accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"></label><button class="action-btn resume-view" data-resume-slot="A" disabled>Open</button><button class="action-btn resume-download" data-resume-slot="A" disabled>Download</button><button class="action-btn resume-remove" data-resume-slot="A" disabled>Remove</button></div></div>
+          </section>
+          <section class="resume-card" data-resume="B">
+            <span class="resume-letter">B</span>
+            <div class="resume-body"><strong>Track B Resume</strong><p>Role focus will be defined after Audrey's career profile is reviewed.</p><p class="resume-file-status" id="resumeStatusB">No file added yet.</p><div class="resume-actions"><label class="action-btn upload-btn">Add / replace<input class="resume-file-input" type="file" data-resume-slot="B" accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"></label><button class="action-btn resume-view" data-resume-slot="B" disabled>Open</button><button class="action-btn resume-download" data-resume-slot="B" disabled>Download</button><button class="action-btn resume-remove" data-resume-slot="B" disabled>Remove</button></div></div>
+          </section>
+          <section class="resume-card" data-resume="C">
+            <span class="resume-letter">C</span>
+            <div class="resume-body"><strong>Track C Resume</strong><p>Role focus will be defined after Audrey's career profile is reviewed.</p><p class="resume-file-status" id="resumeStatusC">No file added yet.</p><div class="resume-actions"><label class="action-btn upload-btn">Add / replace<input class="resume-file-input" type="file" data-resume-slot="C" accept=".pdf,.doc,.docx,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"></label><button class="action-btn resume-view" data-resume-slot="C" disabled>Open</button><button class="action-btn resume-download" data-resume-slot="C" disabled>Download</button><button class="action-btn resume-remove" data-resume-slot="C" disabled>Remove</button></div></div>
+          </section>
+        </div>
+
+        <section class="panel muted-panel privacy-note">
+          <strong>Private by separation</strong>
+          <p>No Kevin resumes, applications, notes, account identifiers, or Supabase credentials are included in this repository.</p>
+        </section>
+      </section>
+    </main>
+
+    <nav class="bottom-nav" aria-label="App navigation">
+      <button type="button" class="nav-item active" data-view="today">Today</button>
+      <button type="button" class="nav-item" data-view="saved">Saved</button>
+      <button type="button" class="nav-item" data-view="applied">Applied</button>
+      <button type="button" class="nav-item" data-view="criteria">Criteria</button>
+      <button type="button" class="nav-item" data-view="resumes">Resumes</button>
+    </nav>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
