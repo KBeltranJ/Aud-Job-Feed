@@ -1,78 +1,66 @@
 {
-  "updatedAt": "2026-09-16T21:30:00Z",
+  "updatedAt": "2026-09-17T03:39:57Z",
   "source": "audrey-job-feed",
   "jobs": [
     {
-      "id": "taboola-salesforce-genai-system-analyst-20260916",
-      "title": "Salesforce and GenAI System Analyst",
-      "company": "Taboola",
-      "location": "Hybrid in New York, NY",
-      "salary": "$100,000 - $123,000 a year",
+      "id": "fortuna-health-product-operations-associate-20260917",
+      "title": "Product Operations Associate",
+      "company": "Fortuna Health",
+      "location": "New York, NY (On-site, 5 days/week)",
+      "salary": "$90,000 a year",
       "fit": 95,
-      "resume": "A",
-      "why": "Excellent match for Audrey's Salesforce/business-systems track: CRM workflows, business-process analysis, requirements gathering, automation, system enhancements, and cross-functional partnership are central to the role.",
-      "gap": "The posting prefers SQL/SOQL, scripting, or Salesforce certifications, so she should emphasize any hands-on Salesforce configuration and technical learning experience.",
-      "applyUrl": "https://www.taboola.com/careers"
+      "resume": "C",
+      "why": "Exceptional product-operations match with a low experience barrier: process operations, identifying user patterns, partnering with Engineering on features and bugs, consumer experience, analytics, and solving ambiguous operational problems.",
+      "gap": "The role is fully in-person five days a week in NYC and startup-paced; Audrey should be comfortable with that working model and emphasize ownership and measurable process improvements.",
+      "applyUrl": "https://www.ycombinator.com/companies/fortuna-health/jobs/bmGIxsh-product-operations-associate"
     },
     {
-      "id": "medidata-business-systems-analyst-sales-intelligence-20260916",
-      "title": "Business Systems Analyst, Sales Intelligence",
-      "company": "Medidata Solutions",
-      "location": "New York City, NY",
-      "salary": "$96,000 - $128,000 a year",
-      "fit": 94,
-      "resume": "A",
-      "why": "Strong alignment with translating ambiguous business needs into documented requirements, process maps, user stories, Salesforce Flow, reports, dashboards, and collaboration with technical and non-technical stakeholders.",
-      "gap": "Salesforce Administrator certification and CRM Analytics are listed, so certification depth may be the main competitive gap.",
-      "applyUrl": "https://www.medidata.com/en/careers/"
-    },
-    {
-      "id": "icapital-product-operations-associate-8648980002-20260916",
-      "title": "Product Operations - Associate",
-      "company": "iCapital",
+      "id": "valon-product-operations-senior-associate-20260917",
+      "title": "Product Operations Senior Associate",
+      "company": "Valon",
       "location": "Hybrid in New York, NY",
-      "salary": "$85,000 - $100,000 a year",
+      "salary": "$106,500 - $145,500 a year",
+      "fit": 93,
+      "resume": "C",
+      "why": "Strong bridge between Audrey's systems/operations experience and Product Ops: translating user feedback into requirements, investigating product issues, collaborating with Product and Engineering, and using data to improve workflows.",
+      "gap": "The role expects 2-4+ years in product operations or an adjacent analytical environment and comfort learning SQL, so Audrey should foreground her closest product-adjacent work and analytical examples.",
+      "applyUrl": "https://simplify.jobs/p/0c20abfc-6d16-4284-9610-3304a349357a/Product-Operations-Senior-Associate"
+    },
+    {
+      "id": "junction-operations-associate-test-kit-20260917",
+      "title": "Operations Associate (Test Kit)",
+      "company": "Junction",
+      "location": "New York City Metro (Remote)",
+      "salary": "$80,000 - $95,000 a year",
       "fit": 92,
       "resume": "C",
-      "why": "Very good product-operations bridge: cross-functional execution, onboarding workflows, platform configuration, testing, issue tracking, stakeholder communication, and partnership with Engineering map well to Audrey's systems and operations background.",
-      "gap": "Financial-services, annuity, or insurance-platform exposure is strongly preferred, so she should position her transferable implementation and client/stakeholder work clearly.",
-      "applyUrl": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8648980002"
+      "why": "Excellent operations fit centered on launches, implementation, workflow ownership, customer coordination, dashboards, metrics, root-cause problem solving, documentation, and process improvement in healthcare technology.",
+      "gap": "Junction asks for 3+ years in operations or adjacent work and values healthcare/logistics exposure; Audrey should explicitly map her implementation and cross-functional experience to customer launches and operational ownership.",
+      "applyUrl": "https://www.junction.com/careers/22a94673-4605-4e0e-8979-3b81a59f4e67"
     },
     {
-      "id": "digital-asset-business-operations-data-analyst-20260916",
-      "title": "Business Operations & Data Analyst",
-      "company": "Digital Asset",
+      "id": "j2-health-product-designer-i-20260917",
+      "title": "Product Designer I",
+      "company": "J2 Health",
+      "location": "Hybrid NYC (3 days/week) or Remote in Eastern Time",
+      "salary": "$100,000 - $115,000 a year",
+      "fit": 91,
+      "resume": "B",
+      "why": "One of the strongest realistic UX transition roles: it is designed for candidates with limited professional experience and focuses on Figma, high-fidelity UI, design systems, product/engineering collaboration, research support, data-informed decisions, and B2B healthcare software.",
+      "gap": "Audrey needs a polished portfolio demonstrating high-craft UI and strong Figma fundamentals; the posting expects roughly 1-2 years of professional experience plus broader UI practice.",
+      "applyUrl": "https://www.tealhq.com/job/product-designer-i_7ea1a75c37263b36624de5dfb5d3e44b6a164"
+    },
+    {
+      "id": "imprint-product-operations-associate-20260917",
+      "title": "Product Operations Associate",
+      "company": "Imprint",
       "location": "New York, NY",
-      "salary": "$100,000 - $125,000 a year",
-      "fit": 90,
-      "resume": "C",
-      "why": "The role combines cross-functional workflow management, operational improvement, data/AI systems, and executive-facing work, making it a strong fit for Audrey's business operations and systems profile.",
-      "gap": "The role is data-heavy and sits in blockchain infrastructure, so she should foreground analytics, reporting, Excel, and examples of learning unfamiliar technical domains quickly.",
-      "applyUrl": "https://www.digitalasset.com/careers"
-    },
-    {
-      "id": "claritypay-product-operations-manager-20260916",
-      "title": "Product Operations Manager",
-      "company": "ClarityPay",
-      "location": "Hybrid in New York City, NY",
-      "salary": "$100,000 - $140,000 a year",
+      "salary": "$130,000 - $160,000 a year",
       "fit": 89,
       "resume": "C",
-      "why": "Strong overlap with cross-functional product operations, process ownership, execution, and systems thinking. It offers a direct path toward the product/business-operations work Audrey is targeting.",
-      "gap": "The posting asks for 4+ years and manager-level product operations ownership, so she will need to demonstrate scope, autonomy, and measurable outcomes rather than only support responsibilities.",
-      "applyUrl": "https://jobs.ashbyhq.com/claritypay/d9fcd2bf-a98e-4052-aa76-01c448862ba8"
-    },
-    {
-      "id": "amazon-ux-designer-d3-10528658-20260916",
-      "title": "UX Designer, D3 (Design, Development & Delivery) Team",
-      "company": "Amazon Web Services",
-      "location": "New York, NY",
-      "salary": "$129,600 - $176,000 a year",
-      "fit": 86,
-      "resume": "B",
-      "why": "The role values Figma, prototyping, complex workflows, cross-functional collaboration, documentation, and data-informed design. Those areas connect Audrey's UX training with her business-systems background.",
-      "gap": "Amazon requires 3+ years of design experience and an online portfolio, making direct professional design tenure the largest hurdle.",
-      "applyUrl": "https://www.amazon.jobs/en/jobs/10528658/ux-designer-d3-design-development-delivery-team"
+      "why": "High-upside Product Ops opportunity in a product and engineering organization. Audrey's systems, cross-functional delivery, process improvement, and operations background create a credible bridge into this track.",
+      "gap": "The compensation and fintech environment imply a competitive bar; Audrey should emphasize product-adjacent ownership, analytical decision-making, and concrete operational impact.",
+      "applyUrl": "https://jobs.ashbyhq.com/imprint/5fc4c303-fbe8-4d47-9787-ccb4edfc1921/"
     }
   ]
 }
