@@ -1,66 +1,66 @@
 {
-  "updatedAt": "2026-09-18T03:55:32Z",
+  "updatedAt": "2026-09-19T03:45:00Z",
   "source": "audrey-job-feed",
   "jobs": [
     {
-      "id": "crosscountry-salesforce-business-analyst-20260918",
-      "title": "Salesforce Business Analyst",
-      "company": "CrossCountry Consulting",
-      "location": "United States (Remote)",
-      "salary": "$95,000 - $115,000 a year + annual bonus",
-      "fit": 94,
-      "resume": "A",
-      "why": "Excellent match for Audrey's Salesforce and business-systems track: client discovery, requirements gathering, user stories, functional specifications, process flows, integrations, Agile delivery, and collaboration with configurators, developers, and project managers. Salesforce certifications are preferred rather than required.",
-      "gap": "The posting asks for 3-5 years of Salesforce BA experience specifically in consulting or professional services, so Audrey should make her closest Salesforce implementation and client-facing delivery experience explicit.",
-      "applyUrl": "https://jobs.lever.co/crosscountry-consulting/a3c23d46-e5d7-4c75-94b3-96abc7e3c031"
-    },
-    {
-      "id": "public-health-solutions-sr-salesforce-business-analyst-20260918",
-      "title": "Sr. Salesforce Business Analyst",
-      "company": "Public Health Solutions",
-      "location": "Long Island City / New York, NY (Hybrid)",
-      "salary": "$115,000 a year",
-      "fit": 92,
-      "resume": "A",
-      "why": "Very strong local Salesforce/BA match involving complex workflows, business requirements, project planning, reporting, technical assistance, and stakeholder support. The hybrid Long Island City location also fits Audrey's target geography especially well.",
-      "gap": "The Senior title may raise the experience bar. Audrey should emphasize end-to-end requirements ownership, Salesforce delivery, UAT, workflow improvements, and examples where she independently drove a business-system change.",
-      "applyUrl": "https://www.linkedin.com/jobs/view/sr-salesforce-business-analyst-at-public-health-solutions-4432105950"
-    },
-    {
-      "id": "orchard-product-designer-20260918",
-      "title": "Product Designer",
-      "company": "Orchard",
+      "id": "betterment-business-development-operations-associate-20260919",
+      "title": "Business Development Operations Associate",
+      "company": "Betterment",
       "location": "New York, NY (Hybrid)",
-      "salary": "$100,000 - $120,000 a year",
-      "fit": 91,
-      "resume": "B",
-      "why": "One of today's best UX opportunities for Audrey: it targets roughly 1-3 years, combines user research, complex workflow simplification, prototyping, Figma, direct user feedback, data-informed design, and Product/Engineering collaboration. The role also explicitly uses AI prototyping tools such as Claude, Codex, and Cursor.",
-      "gap": "Audrey needs portfolio case studies that clearly demonstrate end-to-end product thinking, polished Figma work, user research, and how she simplified a complex workflow rather than only showing visual design.",
-      "applyUrl": "https://www.tealhq.com/job/product-designer_7ea1ad3643db1192b8b86ebde44eedb16d05f"
-    },
-    {
-      "id": "scan-com-product-operations-manager-20260918",
-      "title": "Product Operations Manager",
-      "company": "Scan.com",
-      "location": "New York City (Hybrid)",
-      "salary": "$90,000 - $120,000 a year",
-      "fit": 89,
+      "salary": "$80,000 - $90,000 a year",
+      "fit": 95,
       "resume": "C",
-      "why": "Strong Product/Business Operations match in healthcare technology: coordinating launches, documentation, cross-functional sign-off, product metrics, post-release analysis, OKR tracking, AI-ready knowledge systems, and improving delivery processes all map well to Audrey's operations and systems strengths.",
-      "gap": "This is a manager-level Product Ops role and some versions of the posting indicate a preference for several years of product operations/program experience. Audrey should quantify ownership, launches, process improvements, and cross-functional leadership to offset the title gap.",
-      "applyUrl": "https://jobs.ashbyhq.com/scan-com/8f60ea2d-ce13-4f85-9112-f395651d80fb"
+      "why": "Excellent overlap across operations and systems: the role owns day-to-day Salesforce/CRM operations, AI-assisted reporting automations, executive reporting, cross-functional timelines, partner workflows, and process building. The stated 2-3 years of operations, coordination, analyst, or client-facing experience is also relatively accessible.",
+      "gap": "Financial-services and partnerships exposure are helpful, so Audrey should emphasize transferable CRM ownership, stakeholder coordination, reporting, and process improvement rather than trying to present herself as a finance specialist.",
+      "applyUrl": "https://www.tealhq.com/job/business-development-operations-associate_7ea1a0f03e6e41059d5bdde202920046be612"
     },
     {
-      "id": "crowdstrike-sr-bsa-salesforce-quote-to-cash-20260918",
-      "title": "Sr. Business Systems Analyst, Salesforce Quote-to-Cash",
-      "company": "CrowdStrike",
-      "location": "United States (Remote)",
-      "salary": "$100,000 - $155,000 a year",
-      "fit": 86,
+      "id": "32bj-business-analyst-ii-20260919",
+      "title": "Business Analyst II",
+      "company": "Building Service 32BJ Benefit Funds",
+      "location": "New York, NY (Flatiron)",
+      "salary": "$100,000 - $110,000 a year",
+      "fit": 93,
       "resume": "A",
-      "why": "Excellent functional overlap with business systems analysis: requirements, process definition, fit-gap analysis, testing, documentation, Agile delivery, reporting, Salesforce Flow, stakeholder management, and AI-assisted workflow improvement. It is fully remote in the U.S.",
-      "gap": "This is a stretch role: CrowdStrike asks for 5+ years supporting SaaS business systems and at least 2 years of hands-on Salesforce CPQ, Revenue Cloud, or another CPQ application. Apply only if Audrey can credibly demonstrate adjacent Quote-to-Cash/CPQ experience.",
-      "applyUrl": "https://www.linkedin.com/jobs/view/sr-business-systems-analyst-salesforce-quote-to-cash-remote-at-crowdstrike-4456904589"
+      "why": "Strong business-systems match centered on stakeholder discovery, business and technical process documentation, functional and non-functional requirements, solution scoping, and implementing process changes. It closely mirrors Audrey's requirements/UAT/business-systems positioning.",
+      "gap": "This is an Analyst II role, so Audrey should make independent ownership of small-to-medium projects, requirements elicitation, UAT, and implementation outcomes prominent on Resume A.",
+      "applyUrl": "https://www.indeed.com/viewjob?jk=88ba08e0a261ec41"
+    },
+    {
+      "id": "oocl-business-process-analyst-20260919",
+      "title": "Business Process Analyst",
+      "company": "OOCL Logistics",
+      "location": "New York City area / Eastern Time (Remote)",
+      "salary": "$80,000 - $85,000 a year",
+      "fit": 91,
+      "resume": "A",
+      "why": "Good implementation-oriented BA match: customer-facing platform implementations, process analysis, project coordination, cross-functional business/technical collaboration, and helping users adopt and support an internal logistics platform. The role is remote for U.S. Eastern Time candidates.",
+      "gap": "Logistics, purchase-order, and supply-chain domain knowledge is the clearest gap. Audrey should emphasize platform implementation, process mapping, user support, and any integration-adjacent work; API/EDI familiarity is helpful but not required.",
+      "applyUrl": "https://www.monster.com/job-openings/-business-process-analyst-business-process-analyst-new-york-ny--cf4f0631-48ad-4a89-a7fd-f9e0f9a6e5a5"
+    },
+    {
+      "id": "talkspace-ux-designer-20260919",
+      "title": "UX Designer",
+      "company": "Talkspace",
+      "location": "New York, NY / Eastern Time (Remote)",
+      "salary": "$100,000 - $150,000 a year",
+      "fit": 86,
+      "resume": "B",
+      "why": "Strong functional UX alignment across Figma, end-to-end user flows, wireframes, prototypes, design systems, user research, usability testing, accessibility, and Product/Engineering collaboration. It is remote and based on Eastern Time.",
+      "gap": "Talkspace asks for 4+ years of professional UX experience across web, iOS, and Android, making this a stretch. Audrey needs a polished portfolio and should only prioritize it if her projects can convincingly demonstrate production-level end-to-end product design.",
+      "applyUrl": "https://www.tealhq.com/job/ux-designer_7ea1a87fad815152be955ac1437cef42260af"
+    },
+    {
+      "id": "brex-systems-analyst-ii-20260919",
+      "title": "Systems Analyst II",
+      "company": "Brex",
+      "location": "New York, NY (Hybrid)",
+      "salary": "$135,720 - $169,650 a year",
+      "fit": 84,
+      "resume": "A",
+      "why": "High-upside systems role with strong overlap in Salesforce/GTM tooling, workflow automation, stakeholder discovery, systems implementation, change management, training coordination, data-backed recommendations, and AI-enabled process improvement. The role targets roughly 2-4 years of systems/BizOps/TechOps experience.",
+      "gap": "The technical bar is significant: working proficiency in JavaScript, Python, SQL, and APIs is requested. Audrey should treat this as a stretch unless she can demonstrate hands-on technical tooling or automation work beyond Salesforce configuration and business analysis.",
+      "applyUrl": "https://newjob.tech/j/brex--systems-analyst-ii"
     }
   ]
 }
