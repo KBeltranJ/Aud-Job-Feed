@@ -1,66 +1,66 @@
 {
-  "updatedAt": "2026-09-19T03:45:00Z",
+  "updatedAt": "2026-09-21T03:37:00Z",
   "source": "audrey-job-feed",
   "jobs": [
     {
-      "id": "betterment-business-development-operations-associate-20260919",
-      "title": "Business Development Operations Associate",
-      "company": "Betterment",
-      "location": "New York, NY (Hybrid)",
-      "salary": "$80,000 - $90,000 a year",
+      "id": "roku-systems-operations-associate-20260920",
+      "title": "Systems Operations Associate",
+      "company": "Roku",
+      "location": "New York, NY",
+      "salary": "$99,000 - $108,000 a year",
       "fit": 95,
       "resume": "C",
-      "why": "Excellent overlap across operations and systems: the role owns day-to-day Salesforce/CRM operations, AI-assisted reporting automations, executive reporting, cross-functional timelines, partner workflows, and process building. The stated 2-3 years of operations, coordination, analyst, or client-facing experience is also relatively accessible.",
-      "gap": "Financial-services and partnerships exposure are helpful, so Audrey should emphasize transferable CRM ownership, stakeholder coordination, reporting, and process improvement rather than trying to present herself as a finance specialist.",
-      "applyUrl": "https://www.tealhq.com/job/business-development-operations-associate_7ea1a0f03e6e41059d5bdde202920046be612"
+      "why": "Excellent bridge between business operations and product/systems work. The role acts as the liaison between business stakeholders and Product/Engineering, supports cross-functional workflows and tooling, and owns change management around feature releases and process changes.",
+      "gap": "Audrey should emphasize examples where she independently owned operational changes, coordinated technical stakeholders, and supported releases or system adoption; direct streaming/content-platform experience is not her core background.",
+      "applyUrl": "https://www.employbl.com/jobs/systems-operations-associate-Roku-1620934"
     },
     {
-      "id": "32bj-business-analyst-ii-20260919",
-      "title": "Business Analyst II",
-      "company": "Building Service 32BJ Benefit Funds",
-      "location": "New York, NY (Flatiron)",
-      "salary": "$100,000 - $110,000 a year",
-      "fit": 93,
+      "id": "sikich-salesforce-business-analyst-state-consulting-20260920",
+      "title": "Salesforce Business Analyst (State Consulting)",
+      "company": "Sikich",
+      "location": "United States (Remote)",
+      "salary": "$90,000 - $125,000 a year",
+      "fit": 94,
       "resume": "A",
-      "why": "Strong business-systems match centered on stakeholder discovery, business and technical process documentation, functional and non-functional requirements, solution scoping, and implementing process changes. It closely mirrors Audrey's requirements/UAT/business-systems positioning.",
-      "gap": "This is an Analyst II role, so Audrey should make independent ownership of small-to-medium projects, requirements elicitation, UAT, and implementation outcomes prominent on Resume A.",
-      "applyUrl": "https://www.indeed.com/viewjob?jk=88ba08e0a261ec41"
+      "why": "Very strong Salesforce/business-analysis match covering process mapping, requirements, workflows, user stories, automation opportunities, Jira/Confluence documentation, stakeholder facilitation, and partnership with engineering teams.",
+      "gap": "The state-consulting environment may favor candidates with public-sector or infrastructure modernization experience. Audrey should foreground Salesforce requirements work, process improvement, UAT, documentation, and stakeholder communication.",
+      "applyUrl": "https://jobs.jobvite.com/sikichcareers/job/o8MMAfw0"
     },
     {
-      "id": "oocl-business-process-analyst-20260919",
-      "title": "Business Process Analyst",
-      "company": "OOCL Logistics",
-      "location": "New York City area / Eastern Time (Remote)",
-      "salary": "$80,000 - $85,000 a year",
+      "id": "craftsman-technical-analyst-salesforce-20260920",
+      "title": "Technical Analyst (Salesforce)",
+      "company": "Craftsman Technology Group",
+      "location": "United States (Remote) / Boston, MA hybrid",
+      "salary": "$80,000 - $90,000 a year",
       "fit": 91,
       "resume": "A",
-      "why": "Good implementation-oriented BA match: customer-facing platform implementations, process analysis, project coordination, cross-functional business/technical collaboration, and helping users adopt and support an internal logistics platform. The role is remote for U.S. Eastern Time candidates.",
-      "gap": "Logistics, purchase-order, and supply-chain domain knowledge is the clearest gap. Audrey should emphasize platform implementation, process mapping, user support, and any integration-adjacent work; API/EDI familiarity is helpful but not required.",
-      "applyUrl": "https://www.monster.com/job-openings/-business-process-analyst-business-process-analyst-new-york-ny--cf4f0631-48ad-4a89-a7fd-f9e0f9a6e5a5"
+      "why": "Strong hands-on BA/Salesforce role combining requirements assessment, root-cause analysis, Salesforce configuration, testing, process documentation, client training, and technology project work. It is available virtually in the contiguous U.S.",
+      "gap": "Salesforce Administrator certification and nonprofit/public-sector experience are explicit requirements, along with Salesforce Flow and familiarity with nonprofit Salesforce apps. Those requirements make this strongest if Audrey already has or can credibly demonstrate the certification/platform depth.",
+      "applyUrl": "https://craftsmantechnologygroupllc.applytojob.com/apply/t6zfdcAePg/Technical-Analyst-Salesforce"
     },
     {
-      "id": "talkspace-ux-designer-20260919",
-      "title": "UX Designer",
-      "company": "Talkspace",
-      "location": "New York, NY / Eastern Time (Remote)",
-      "salary": "$100,000 - $150,000 a year",
-      "fit": 86,
-      "resume": "B",
-      "why": "Strong functional UX alignment across Figma, end-to-end user flows, wireframes, prototypes, design systems, user research, usability testing, accessibility, and Product/Engineering collaboration. It is remote and based on Eastern Time.",
-      "gap": "Talkspace asks for 4+ years of professional UX experience across web, iOS, and Android, making this a stretch. Audrey needs a polished portfolio and should only prioritize it if her projects can convincingly demonstrate production-level end-to-end product design.",
-      "applyUrl": "https://www.tealhq.com/job/ux-designer_7ea1a87fad815152be955ac1437cef42260af"
-    },
-    {
-      "id": "brex-systems-analyst-ii-20260919",
-      "title": "Systems Analyst II",
-      "company": "Brex",
-      "location": "New York, NY (Hybrid)",
-      "salary": "$135,720 - $169,650 a year",
-      "fit": 84,
+      "id": "raptive-salesforce-administrator-solution-design-20260920",
+      "title": "Salesforce Administrator, Solution Design",
+      "company": "Raptive",
+      "location": "New York, NY (On-site)",
+      "salary": "$90,000 - $120,000 a year",
+      "fit": 87,
       "resume": "A",
-      "why": "High-upside systems role with strong overlap in Salesforce/GTM tooling, workflow automation, stakeholder discovery, systems implementation, change management, training coordination, data-backed recommendations, and AI-enabled process improvement. The role targets roughly 2-4 years of systems/BizOps/TechOps experience.",
-      "gap": "The technical bar is significant: working proficiency in JavaScript, Python, SQL, and APIs is requested. Audrey should treat this as a stretch unless she can demonstrate hands-on technical tooling or automation work beyond Salesforce configuration and business analysis.",
-      "applyUrl": "https://newjob.tech/j/brex--systems-analyst-ii"
+      "why": "Strong functional overlap with Audrey's Salesforce/business-systems track: stakeholder requirements, acceptance criteria, process context, solution design, configuration, documentation, release readiness, testing, and post-release validation.",
+      "gap": "This is a stretch because Raptive asks for Salesforce Admin certification, 5+ years as a Salesforce Administrator in a customized 100+ user environment, and 3+ years of business analysis experience.",
+      "applyUrl": "https://www.tealhq.com/job/salesforce-administrator-solution-design_7ea1a58809c1011264845a0d913d21c46d8cb"
+    },
+    {
+      "id": "basis-ai-product-designer-new-vertical-20260920",
+      "title": "Product Designer - New Vertical",
+      "company": "Basis AI",
+      "location": "New York, NY (On-site)",
+      "salary": "$100,000 - $250,000 a year",
+      "fit": 84,
+      "resume": "B",
+      "why": "Interesting UX/Product Design opportunity centered on complex AI workflows, prototyping, human-agent interactions, close engineering collaboration, user empathy, and moving from early concepts to polished interfaces. It strongly rewards systems thinking alongside design craft.",
+      "gap": "This is a portfolio-dependent stretch: the role expects substantial complex SaaS/AI product-design experience, 0-to-1 ownership, strong prototyping, and comfort working in person five days a week. Audrey should only prioritize it with compelling end-to-end case studies.",
+      "applyUrl": "https://jobs.ashbyhq.com/basis-ai/e00910f1-7020-457f-bb9b-635069bdb728"
     }
   ]
 }
