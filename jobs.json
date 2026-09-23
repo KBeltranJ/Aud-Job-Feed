@@ -1,54 +1,54 @@
 {
-  "updatedAt": "2026-09-22T03:30:00Z",
+  "updatedAt": "2026-09-23T04:08:00Z",
   "source": "audrey-job-feed",
   "jobs": [
     {
-      "id": "daisy-junior-product-manager-ai-ops-20260922",
-      "title": "Junior Product Manager - AI-Driven Ops & Automations",
-      "company": "Daisy",
-      "location": "New York, NY (On-site)",
-      "salary": "$80,000 - $120,000 a year",
+      "id": "blackrock-product-operations-associate-aladdin-20260923",
+      "title": "Product Operations Associate, Aladdin Platform Engineering",
+      "company": "BlackRock",
+      "location": "New York, NY (Hybrid; 4 days in office)",
+      "salary": "$105,000 - $137,500 a year",
+      "fit": 96,
+      "resume": "C",
+      "why": "Outstanding match for Audrey's Product / Business Operations track. The role connects OKRs, planning, roadmaps, intake, milestone tracking, leadership reporting, documentation, cross-functional delivery, and AI/automation improvements. BlackRock asks for 2-4 years across product ops, product management, program management, technology operations, consulting, or business management, which maps unusually well to Audrey's transferable experience.",
+      "gap": "Audrey should clearly connect her prior systems/operations work to formal product operating rhythms such as OKRs, roadmaps, planning cadences, and engineering-team dependencies. Financial-services experience is not listed as a core requirement, but platform-technology fluency will matter.",
+      "applyUrl": "https://careers.blackrock.com/job/new-york/product-operations-associate-aladdin-platform-engineering/45831/101002685744"
+    },
+    {
+      "id": "bbh-braid-business-operations-analyst-20260923",
+      "title": "Braid Business Operations Analyst",
+      "company": "Brown Brothers Harriman",
+      "location": "New York, NY / Jersey City, NJ",
+      "salary": "$80,000 - $125,000 a year + bonus",
       "fit": 95,
       "resume": "C",
-      "why": "Excellent bridge from business systems and operations into product. The role maps real workflows, identifies process gaps, writes specs and requirements, prototypes AI-driven automations, builds dashboards, owns SOPs, and runs rollouts and adoption with operations and engineering teams.",
-      "gap": "Audrey should show hands-on use of AI/automation tools and quantify process improvements. SQL/BI is a plus, so she should emphasize adjacent analytics experience rather than overstate technical depth.",
-      "applyUrl": "https://productjobs.com/jobs/product-manager-83df109c"
+      "why": "Excellent early-career Business Operations match requiring only 1-3 years in business operations, project coordination, consulting, or related work. It combines cross-functional initiatives, process improvement, documentation, data/reporting, Microsoft 365, operational problem solving, CRM exposure, and interest in product, AI, design, technology, and process improvement.",
+      "gap": "Part of the role includes executive-support logistics such as calendars, meetings, and travel, so Audrey should decide whether she is comfortable with that portion and frame herself around the broader operations, systems, project, and process-improvement responsibilities.",
+      "applyUrl": "https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Braid-Business-Operations-Analyst_72867"
     },
     {
-      "id": "madhive-business-operations-analyst-20260922",
-      "title": "Business Operations Analyst",
-      "company": "Madhive",
-      "location": "New York, NY (Hybrid / 4-5 days in office)",
-      "salary": "$95,000 - $120,000 a year",
-      "fit": 94,
-      "resume": "C",
-      "why": "Strong fit for Audrey's operations and media background. The role combines cross-functional project leadership, analytics, process improvement, executive-ready communication, milestone tracking, and work across revenue, product, and financial data; adtech/digital-media experience is explicitly preferred.",
-      "gap": "The role partners directly with the CEO and expects polished executive presentations plus 2-4 years of execution-heavy experience. Audrey should foreground media/adtech context, project ownership, and measurable cross-functional outcomes.",
-      "applyUrl": "https://jobs.ashbyhq.com/madhive/319ce3d7-c2b7-4963-a31b-5d8d73293745"
-    },
-    {
-      "id": "abstract-product-operations-analyst-20260922",
-      "title": "Product Operations Analyst",
-      "company": "Abstract",
-      "location": "New York City, NY (Hybrid)",
-      "salary": "$80,000 - $110,000 a year",
+      "id": "konrad-ui-ux-designer-20260923",
+      "title": "UI/UX Designer",
+      "company": "Konrad",
+      "location": "New York, NY (Hybrid)",
+      "salary": "$80,000 - $100,000 a year",
       "fit": 92,
-      "resume": "C",
-      "why": "Strong product-operations match centered on discovery, translating painful workflows into buildable solutions, managing delivery in Linear, coordinating with engineering, testing before launch, and communicating technical tradeoffs to customers.",
-      "gap": "The AI-agent product requires comfort discussing connectors, data pipelines, reliability, and AI failure modes. Audrey should emphasize UAT/testing, requirements translation, system implementation, and technical stakeholder communication.",
-      "applyUrl": "https://www.monster.com/job-openings/product-operations-analyst-new-york-ny--fd2ffb03-6fb7-4787-870f-2f54f696f1ee"
+      "resume": "B",
+      "why": "One of the strongest realistic UX openings for Audrey because it asks for only 1-3 years of UI/UX experience. The work covers design thinking, user research, user testing, interactive experiences, Figma, prototyping, visual and interaction design, and collaboration with developers and consultants across business and technology.",
+      "gap": "The portfolio is the deciding factor. Audrey needs polished digital case studies demonstrating Figma proficiency, visual hierarchy, interaction design, research-to-design reasoning, and clear articulation of design decisions.",
+      "applyUrl": "https://www.konrad.com/careers/job/ui-ux-designer_8000757003"
     },
     {
-      "id": "distributed-spectrum-product-operations-20260922",
-      "title": "Product Operations",
-      "company": "Distributed Spectrum",
-      "location": "New York City, NY (On-site)",
-      "salary": "$150,000 - $200,000 a year",
-      "fit": 86,
+      "id": "allwhere-business-operations-analyst-20260923",
+      "title": "Business Operations Analyst",
+      "company": "allwhere",
+      "location": "New York, NY (Hybrid; 3 days in office)",
+      "salary": "$100,000 - $130,000 a year + equity",
+      "fit": 88,
       "resume": "C",
-      "why": "High-upside product-operations role with a strong emphasis on ownership, adaptability, cross-team coordination, eliminating inefficiencies, and ensuring product work stays connected to customers and business outcomes.",
-      "gap": "This is the stretch role in today's batch: compensation and the highly technical RF/AI environment suggest a demanding bar, and the posting includes ITAR eligibility requirements. Audrey should prioritize the first three roles before this one.",
-      "applyUrl": "https://jobs.ashbyhq.com/distributed-spectrum/b58fd7f0-8bf7-479f-9fa6-fcd6abeac22d"
+      "why": "Strong operations-and-systems opportunity at a growing technology company. The role partners across operations, product, procurement and leadership, owns KPI dashboards, improves systems and processes, tracks cross-functional projects, and values Excel, BI/reporting, AI tools, and hands-on problem solving.",
+      "gap": "This is a stretch because the posting asks for 3-5 years of relevant experience plus strong SQL and direct work with raw datasets. Audrey should apply only if she can credibly demonstrate analytics depth and should not overstate SQL proficiency.",
+      "applyUrl": "https://allwhere.applytojob.com/apply/YrAZafJNnp/Business-Operations-Analyst"
     }
   ]
 }
