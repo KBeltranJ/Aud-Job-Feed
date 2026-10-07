@@ -184,6 +184,6 @@ let deferredInstallPrompt=null;
 window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();deferredInstallPrompt=e;installBtn.classList.remove("hidden")});
 installBtn.addEventListener("click",async()=>{if(!deferredInstallPrompt)return;deferredInstallPrompt.prompt();await deferredInstallPrompt.userChoice;deferredInstallPrompt=null;installBtn.classList.add("hidden")});
 window.addEventListener("appinstalled",()=>installBtn.classList.add("hidden"));
-if("serviceWorker" in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("./service-worker.js").catch(err=>console.warn("Service worker registration failed",err)));
+if("serviceWorker" in navigator)window.addEventListener("load",()=>navigator.serviceWorker.register("./service-worker.js").then(reg=>reg.update()).catch(err=>console.warn("Service worker registration failed",err)));
 
 applyCriteriaToUI();renderAll();refreshResumeLibrary();loadJobs();
