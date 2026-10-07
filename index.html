@@ -9,6 +9,7 @@
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="cloud-sync.css">
+  <link rel="stylesheet" href="metrics.css">
 </head>
 <body>
   <div class="app-shell">
@@ -122,6 +123,46 @@
         </section>
       </section>
 
+      <section id="metricsView" class="view hidden">
+        <section class="page-header">
+          <div class="eyebrow">PROJECT METRICS</div>
+          <h2>Audrey Job Feed impact tracker</h2>
+          <p>These counters build automatically from real app usage so Audrey can use measured, defensible results on her resume. Tracking started <strong id="metricsStarted"></strong>.</p>
+          <button id="exportMetrics" class="ghost-btn">Export metrics</button>
+        </section>
+
+        <section class="metrics-grid">
+          <div class="stat-card"><span class="stat-label">Unique jobs surfaced</span><strong id="metricJobsSeen">0</strong></div>
+          <div class="stat-card"><span class="stat-label">Jobs reviewed</span><strong id="metricReviewed">0</strong></div>
+          <div class="stat-card"><span class="stat-label">Postings opened</span><strong id="metricOpened">0</strong></div>
+          <div class="stat-card"><span class="stat-label">Applications tracked</span><strong id="metricApplications">0</strong></div>
+          <div class="stat-card"><span class="stat-label">Interview stages reached</span><strong id="metricInterviews">0</strong></div>
+          <div class="stat-card"><span class="stat-label">Offers reached</span><strong id="metricOffers">0</strong></div>
+          <div class="stat-card"><span class="stat-label">Fresh feeds completed</span><strong id="metricRefreshes">0</strong></div>
+          <div class="stat-card"><span class="stat-label">Application rate</span><strong id="metricApplyRate">0%</strong></div>
+        </section>
+
+        <section class="panel">
+          <div class="eyebrow">TIME SAVINGS</div>
+          <h3>Measure the manual work reduced</h3>
+          <p class="subtle">Enter a realistic weekly average. The app calculates a resume-safe time-saved metric from your own measurements.</p>
+          <div class="form-grid metric-time-form">
+            <label>Hours/week before the app
+              <input id="metricsHoursBefore" type="number" min="0" step="0.5" placeholder="e.g. 8">
+            </label>
+            <label>Hours/week using the app
+              <input id="metricsHoursNow" type="number" min="0" step="0.5" placeholder="e.g. 5">
+            </label>
+          </div>
+          <p id="metricsTimeSaved" class="save-message"></p>
+        </section>
+
+        <section class="panel muted-panel privacy-note">
+          <strong>Measurement rule</strong>
+          <p>Use these numbers on a resume only after they reflect real usage. Metrics are stored in Audrey's app data on this device; no Kevin job data is used.</p>
+        </section>
+      </section>
+
       <section id="resumesView" class="view hidden">
         <section class="page-header">
           <div class="eyebrow">RESUME LIBRARY</div>
@@ -157,6 +198,7 @@
       <button type="button" class="nav-item" data-view="applied">Applied</button>
       <button type="button" class="nav-item" data-view="criteria">Criteria</button>
       <button type="button" class="nav-item" data-view="resumes">Resumes</button>
+      <button type="button" class="nav-item" data-view="metrics">Metrics</button>
     </nav>
   </div>
 
@@ -166,5 +208,6 @@
   <script src="career-defaults.js"></script>
   <script src="cloud-sync.js"></script>
   <script src="refresh-recommendations.js"></script>
+  <script src="metrics.js"></script>
 </body>
 </html>
