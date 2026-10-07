@@ -38,6 +38,7 @@
       if (error) throw error;
       if (!data) return;
       if (data.status === "completed") {
+        window.AudreyMetrics?.record("refreshCompleted");
         btn.textContent = "Loading new matches…";
         await loadJobs();
         const feedDate = typeof formatFeedDate === "function" ? formatFeedDate(feedUpdatedAt) : "";
@@ -92,6 +93,7 @@
           else throw error;
         } else {
           request = data;
+          window.AudreyMetrics?.record("refreshRequested");
         }
       }
 
