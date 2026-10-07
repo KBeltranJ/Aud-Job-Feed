@@ -1,0 +1,5 @@
+.metrics-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:14px 0}
+.metric-time-form{margin-top:14px}
+#metricsView input[type=number]{display:block;width:100%;margin-top:6px;padding:10px;border:1px solid #d1d5db;border-radius:10px;background:#fff;color:#111827;font:inherit}
+.bottom-nav{grid-template-columns:repeat(6,1fr)}
+@media(max-width:560px){.metrics-grid{grid-template-columns:repeat(2,1fr)}.bottom-nav .nav-item{font-size:10px;padding-left:2px;padding-right:2px}}
