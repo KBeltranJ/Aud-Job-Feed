@@ -24,6 +24,7 @@ The app is a PWA with:
 - Saved jobs view
 - Application tracker with date, stage, and notes
 - CSV export
+- Project metrics dashboard for unique jobs surfaced, jobs reviewed, posting opens, applications, interview stages, offers, refreshes, application rate, and measured weekly time savings
 - Audrey-specific job criteria filters and three resume tracks
 - Local browser resume library for offline use
 - Audrey-only Supabase cloud synchronization
