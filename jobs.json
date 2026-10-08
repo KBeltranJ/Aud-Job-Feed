@@ -1,54 +1,78 @@
 {
-  "updatedAt": "2026-09-24T03:47:00Z",
+  "updatedAt": "2026-10-08T04:47:00Z",
   "source": "audrey-job-feed",
   "jobs": [
     {
-      "id": "cadent-revenue-operations-analyst-20260924",
-      "title": "Revenue Operations Analyst",
-      "company": "Cadent",
-      "location": "New York, NY",
-      "salary": "$80,000 - $90,000 a year",
+      "id": "public-health-solutions-sr-salesforce-business-analyst-20261008",
+      "title": "Sr. Salesforce Business Analyst",
+      "company": "Public Health Solutions",
+      "location": "Long Island City, NY (Hybrid; up to 2 telework days/week)",
+      "salary": "$115,000 a year",
+      "fit": 98,
+      "resume": "A",
+      "why": "Exceptional match to Audrey's updated resume: Salesforce requirements gathering, process mapping, workflow automation, reports/dashboards, data quality and governance, stakeholder facilitation, training, and translating operational needs into system improvements. The public-health setting also fits Audrey's interest in less-traditional corporate environments.",
+      "gap": "The title is senior and the posting prefers public-health experience. It is also a temporary grant-funded position ending in November 2027. Audrey should emphasize her 200+ user Salesforce environment, Flow automation, UAT, data governance, and training impact.",
+      "applyUrl": "https://www.linkedin.com/jobs/view/sr-salesforce-business-analyst-at-public-health-solutions-4432105950"
+    },
+    {
+      "id": "ross-business-analyst-20261008",
+      "title": "Business Analyst",
+      "company": "Ross Stores",
+      "location": "New York, NY (Hybrid / regular in-office presence)",
+      "salary": "$84,700 - $136,150 a year",
+      "fit": 97,
+      "resume": "A",
+      "why": "Direct fit for Audrey's requirements gathering, user stories, acceptance criteria, process mapping, UAT, defect resolution, documentation, training, change management, and production-support experience. The role asks for 3-5 years supporting IT systems and business processes, which aligns closely with her current profile.",
+      "gap": "Retail systems experience is preferred rather than required. Audrey should position her enterprise Salesforce work as evidence that she can learn a new business domain quickly.",
+      "applyUrl": "https://jobs.rossstores.com/search/jobdetails/business-analyst/6f6821f2-3be4-4571-b20c-a5ba36c9a12b"
+    },
+    {
+      "id": "oscar-process-management-associate-provider-operations-20261008",
+      "title": "Process Management Associate, Provider Operations",
+      "company": "Oscar Health",
+      "location": "New York, NY (Hybrid; 3 days/week in office)",
+      "salary": "$96,876 - $127,149 a year",
+      "fit": 96,
+      "resume": "C",
+      "why": "Strong process-improvement match. The job centers on mapping and analyzing business processes, identifying inefficiencies, developing improvements, documenting workflows, facilitating cross-functional work, measuring outcomes, and partnering with Technology, Product, and Engineering on automation opportunities.",
+      "gap": "Healthcare/provider operations is a new domain, and Lean Six Sigma certification is a bonus. Audrey should lead with Visio process mapping, measurable Salesforce automation savings, UAT, cross-functional delivery, and operational reporting.",
+      "applyUrl": "https://job-boards.greenhouse.io/oscar/jobs/8146248?gh_src=df2216f21"
+    },
+    {
+      "id": "broadridge-senior-process-improvement-analyst-20261008",
+      "title": "Senior Process Improvement Analyst",
+      "company": "Broadridge",
+      "location": "New York, NY (Hybrid)",
+      "salary": "$115,000 - $120,000 a year",
       "fit": 95,
       "resume": "C",
-      "why": "Excellent early-career operations and systems match in advertising technology. The role supports revenue data, reporting, processes and systems, partners cross-functionally, and translates business information into clear insights. Audrey's media background plus business systems and operations experience gives her a particularly relevant angle.",
-      "gap": "The role has an analytics emphasis, so Audrey should foreground Excel/reporting, CRM or Salesforce work, data quality, dashboards and examples of turning operational data into decisions.",
-      "applyUrl": "https://meterwork.com/job/revenue-operations-analyst_at_cadent_YVlS1"
+      "why": "Excellent transformation fit: current/future-state process mapping, stakeholder interviews, business rules, user stories, process redesign, automation, AI-enabled workflows, testing, training, and adoption. The posting specifically targets candidates with 2-4 years in business analysis, operations, transformation, or process improvement.",
+      "gap": "Broadridge is finance/fintech-adjacent, which is not Audrey's preferred industry. Executive-ready presentation materials and formal continuous-improvement methods are also more prominent here than on her resume.",
+      "applyUrl": "https://broadridge.wd5.myworkdayjobs.com/en-US/Careers/job/New-York-NY/Senior-Process-Transformation-Analyst--Hybrid-_JR1085322"
     },
     {
-      "id": "vibrant-salesforce-engineer-i-20260924",
-      "title": "Salesforce Engineer I",
-      "company": "Vibrant Emotional Health",
-      "location": "Remote USA",
-      "salary": "$85,900 - $113,000 a year",
-      "fit": 91,
-      "resume": "A",
-      "why": "Strong Salesforce/business-systems opportunity with a junior-level title. The work includes maintaining and enhancing Salesforce, reports and dashboards, documentation, user training, integrations and workflow improvement, all of which connect well to Audrey's Salesforce and business-analysis experience.",
-      "gap": "This is more technical than a typical Business Analyst role. The posting asks for hands-on integrations/APIs, custom development or data migration experience and Salesforce certification, so Audrey should not overstate engineering depth.",
-      "applyUrl": "https://vibrant.wd5.myworkdayjobs.com/en-US/VEH_EXTERNAL_CAREER_SITE/job/Salesforce-Engineer-I_JR100169-1"
-    },
-    {
-      "id": "syndesus-operations-analyst-20260924",
-      "title": "Operations Analyst",
-      "company": "Syndesus, Inc.",
-      "location": "New York, NY (On-site; 5 days/week)",
-      "salary": "$80,000 - $95,000 a year",
-      "fit": 90,
-      "resume": "C",
-      "why": "Very approachable experience requirement: 0-2 years, with new graduates encouraged. The role combines live operations, team coordination, troubleshooting, process improvement and lightweight automation, giving Audrey a credible path into broader technology operations.",
-      "gap": "The job is five days per week on-site and includes financial reconciliation and marketplace risk work. SQL/Python are helpful, so Audrey should position her systems and automation strengths without claiming technical skills she does not have.",
-      "applyUrl": "https://www.linkedin.com/jobs/view/operations-analyst-at-syndesus-inc-4467096901"
-    },
-    {
-      "id": "jpmc-gen-ai-solutions-operations-associate-20260924",
-      "title": "Gen AI Solutions & Operations Associate",
-      "company": "JPMorganChase",
+      "id": "richemont-crm-client-development-analyst-20261008",
+      "title": "CRM & Client Development Analyst",
+      "company": "Richemont / Vacheron Constantin",
       "location": "New York, NY",
-      "salary": "$90,000 - $130,000 a year",
-      "fit": 89,
+      "salary": "$85,000 - $100,000 a year",
+      "fit": 93,
+      "resume": "A",
+      "why": "A strong CRM pivot that uses Audrey's Salesforce, data-quality, reporting, training, stakeholder-management, and analytics background. Her earlier media-strategy experience also supports the campaign-performance and customer-insight side of the role.",
+      "gap": "The role prefers direct CRM, digital marketing, or luxury-retail experience and exposure to Looker or SAP. Audrey should emphasize Salesforce data integrity, reporting, user enablement, and campaign/KPI analysis without overstating CRM marketing ownership.",
+      "applyUrl": "https://careers.richemont.com/en/jobs/jr129091/crm-client-development-analyst/"
+    },
+    {
+      "id": "google-product-strategy-operations-analyst-education-20261008",
+      "title": "Product Strategy and Operations Analyst, Google Education",
+      "company": "Google",
+      "location": "New York, NY (also listed in other US locations)",
+      "salary": "$126,000 - $180,000 base + bonus/equity",
+      "fit": 88,
       "resume": "C",
-      "why": "Strong product/technology-operations bridge supporting a generative-AI platform. The role covers release execution, intake, servicing, access management, governance, status tracking and coordination across product, engineering and risk, and asks for 2+ years in operations, project management, product operations or related work.",
-      "gap": "Technology governance, risk/control processes and AI-platform operations are newer domains for Audrey. Python, Tableau and Alteryx exposure would strengthen the application but should not be overstated.",
-      "applyUrl": "https://www.jobleads.com/us/job/gen-ai-solutions-operations-associate--new-york--e28bd445d78d690e44f3b99d024550b41"
+      "why": "A worthwhile stretch based on Audrey's cross-functional project delivery, analytics, change management, process improvement, stakeholder communication, and experience turning operational needs into structured system improvements. The education mission also broadens the search beyond traditional corporate BA roles.",
+      "gap": "This is the biggest stretch in the set: Google asks for 4 years in management consulting, product management/strategy, or analytics in a technology company. Audrey has transferable experience but should not frame herself as having direct product-strategy tenure.",
+      "applyUrl": "https://www.google.com/about/careers/applications/jobs/results/72278935768834758-product-strategy-and-operations-analyst-google-education"
     }
   ]
 }
