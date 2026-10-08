@@ -47,15 +47,33 @@ function filteredJobs(){
 function snapshotJob(job){if(job&&job.id){trackedJobs[job.id]={...trackedJobs[job.id],...job};saveJSON(PREFIX+"tracked_jobs",trackedJobs)}}
 function jobById(id){return jobs.find(j=>j.id===id)||trackedJobs[id]}
 
+function keywordPanel(job){
+  const matched=Array.isArray(job.matchedKeywords)?job.matchedKeywords.filter(Boolean):[];
+  const missing=Array.isArray(job.missingKeywords)?job.missingKeywords.filter(Boolean):[];
+  const jdKeywords=Array.isArray(job.jdKeywords)?job.jdKeywords.filter(Boolean):[];
+  const rawScore=Number(job.keywordMatch);
+  const hasScore=Number.isFinite(rawScore)&&rawScore>=0;
+  if(!matched.length&&!missing.length&&!jdKeywords.length&&!hasScore)return "";
+  const score=hasScore?Math.max(0,Math.min(100,Math.round(rawScore))):null;
+  const chips=(items,cls)=>items.slice(0,10).map(item=>`<span class="keyword-chip ${cls}">${esc(item)}</span>`).join("");
+  return `<section class="keyword-panel">
+    <div class="keyword-head"><strong>Resume vs JD keywords</strong>${score!==null?`<span class="keyword-score">${score}% match</span>`:""}</div>
+    ${matched.length?`<div class="keyword-row"><span class="keyword-label">Already in your profile</span><div class="keyword-chips">${chips(matched,"matched")}</div></div>`:""}
+    ${missing.length?`<div class="keyword-row"><span class="keyword-label">JD terms to strengthen</span><div class="keyword-chips">${chips(missing,"missing")}</div></div>`:""}
+    ${!matched.length&&!missing.length&&jdKeywords.length?`<div class="keyword-row"><span class="keyword-label">Top JD keywords</span><div class="keyword-chips">${chips(jdKeywords,"jd")}</div></div>`:""}
+  </section>`;
+}
+
 function jobCard(job){
   const current=statuses[job.id]||"";
   const applyButton=job.applyUrl?`<a class="action-btn" href="${esc(job.applyUrl)}" target="_blank" rel="noopener">View job</a>`:"<span></span>";
   const gap=job.gap?`<p class="job-gap"><strong>Watch-out:</strong> ${esc(job.gap)}</p>`:"";
   const resume=job.resume?`<div class="resume-rec">Recommended Resume: <strong>${esc(job.resume)}</strong></div>`:"";
+  const keywords=keywordPanel(job);
   return `<article class="job-card">
     <div class="job-top"><div><h4>${esc(job.title||"Untitled role")}</h4><div class="company">${esc(job.company||"")}</div></div><span class="fit-badge">${esc(job.fit??"—")}% fit</span></div>
     <div class="meta"><span>${esc(job.location||"Location not listed")}</span><span>${esc(job.salary||"Salary not listed")}</span></div>
-    <p>${esc(job.why||"")}</p>${gap}${resume}
+    <p>${esc(job.why||"")}</p>${gap}${keywords}${resume}
     <div class="actions">${applyButton}<button class="action-btn ${current==="saved"?"selected":""}" data-job="${esc(job.id)}" data-status="saved">Save</button><button class="action-btn ${current==="skipped"?"selected":""}" data-job="${esc(job.id)}" data-status="skipped">Skip</button><button class="action-btn ${current==="expired"?"selected":""}" data-job="${esc(job.id)}" data-status="expired">Link Expired / Not Found</button><button class="action-btn ${current==="applied"?"selected":""}" data-job="${esc(job.id)}" data-status="applied">Applied</button></div>
   </article>`;
 }
