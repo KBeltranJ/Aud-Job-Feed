@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-08T04:47:00Z",
+  "updatedAt": "2026-10-08T17:55:00Z",
   "source": "audrey-job-feed",
   "jobs": [
+    {
+      "id": "figma-business-systems-analyst-20261008",
+      "title": "Business Systems Analyst",
+      "company": "Figma",
+      "location": "New York, NY or Remote USA (full-time)",
+      "salary": "$105,000 - $245,000 base annually (range varies by location)",
+      "fit": 76,
+      "resume": "A",
+      "why": "Strong transfer in business analysis, requirements, user stories, Salesforce automation, process improvement, permissions, training, documentation, UAT, and support for a 200+ user environment. Figma's Customer Operations & Support team is improving support-system workflows, governance, and AI-enabled agent tools.",
+      "gap": "This is a Zendesk-first systems administration role requiring deep hands-on Zendesk workflows, ticket routing, queue architecture, and Decagon/Zendesk integration. Audrey's Salesforce expertise is relevant but does not replace those specific platform skills. Treat as a stretch role and tailor application to system-administration transferability.",
+      "applyUrl": "https://boards.greenhouse.io/figma/jobs/6215865004?gh_jid=6215865004"
+    },
     {
       "id": "public-health-solutions-sr-salesforce-business-analyst-20261008",
       "title": "Sr. Salesforce Business Analyst",
