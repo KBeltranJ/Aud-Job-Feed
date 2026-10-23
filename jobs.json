@@ -1,1 +1,214 @@
-{"updatedAt":"2026-10-22T16:02:30-04:00","source":"daily-chatgpt-search","jobs":[{"id":"futurefitai-cs-ops","title":"Customer Success & Professional Services Operations","company":"FutureFit AI","location":"Remote US","salary":"$90K-$120K","fit":91,"resume":"C","why":"Product QA, UAT, documentation and implementation support fit.","gap":"Direct customer success ownership unverified.","applyUrl":"https://jobs.ashbyhq.com/futurefitai/bf806a83-d9c0-49e3-867e-f50b3d33bb96/","keywordMatch":88,"matchedKeywords":["UAT","QA","training","documentation"],"missingKeywords":["Intercom","Looker"],"jdKeywords":["QA","implementation","customer feedback","training"]},{"id":"eliseai-product-ops","title":"Product Operations Analyst | Healthcare","company":"EliseAI","location":"NYC on-site","salary":"$90K-$135K","fit":88,"resume":"C","why":"Testing protocols, operations and cross-functional product work fit.","gap":"Healthcare launches; five-day office.","applyUrl":"https://jobs.ashbyhq.com/eliseai/de036859-bf94-461a-bada-8c95d582ef0c/","keywordMatch":84,"matchedKeywords":["UAT","testing","process improvement"],"missingKeywords":["healthcare product launches"],"jdKeywords":["product operations","testing","implementation","scaling"]},{"id":"atob-bizops","title":"Business Operations Analyst","company":"AtoB","location":"NY metro hybrid","salary":"$120K-$140K + bonus","fit":87,"resume":"C","why":"Reporting, process playbooks and stakeholder research fit.","gap":"Growth experiments and payments analytics unverified.","applyUrl":"https://jobs.ashbyhq.com/atob/9a00bcca-240b-4fe9-b9ed-c7a293746ad2","keywordMatch":81,"matchedKeywords":["data analysis","process improvement","stakeholders"],"missingKeywords":["advanced SQL","growth experiments"],"jdKeywords":["business operations","KPIs","SQL","playbooks"]},{"id":"hellopatient-implementation","title":"Implementation Specialist","company":"Hello Patient","location":"NYC hybrid","salary":"$90K-$120K","fit":85,"resume":"C","why":"Requirements, configuration, UAT and training fit.","gap":"API/webhooks and customer go-live ownership unverified.","applyUrl":"https://jobs.ashbyhq.com/hellopatient/105b41bd-4cbf-4ba5-9767-c47f8a6649ae","keywordMatch":80,"matchedKeywords":["requirements","UAT","training"],"missingKeywords":["APIs","webhooks","EHR"],"jdKeywords":["implementation","go-live","testing","APIs"]},{"id":"harvey-deal-ops","title":"Deal Operations Analyst","company":"Harvey","location":"NYC hybrid","salary":"$108.3K-$162.5K","fit":84,"resume":"A","why":"Salesforce contract workflows, UAT and Legal collaboration fit.","gap":"CPQ and direct deal desk operations unverified.","applyUrl":"https://jobs.ashbyhq.com/harvey/ed12b54a-71f6-40f0-9975-900754c5ae08","keywordMatch":82,"matchedKeywords":["Salesforce","UAT","requirements","documentation"],"missingKeywords":["CPQ","deal desk","ticket queue"],"jdKeywords":["Salesforce","CPQ","deal operations","UAT"]}]}
+{
+  "updatedAt": "2026-10-23T06:57:00-04:00",
+  "source": "daily-chatgpt-search",
+  "jobs": [
+    {
+      "id": "success-academy-salesforce-admin-5378029008",
+      "title": "Salesforce Administrator / Business Analyst",
+      "company": "Success Academy Charter Schools",
+      "location": "New York, NY — hybrid (Tue–Thu office)",
+      "salary": "$110,000–$120,000 base; no bonus",
+      "fit": 94,
+      "resume": "A",
+      "why": "Salesforce Flow, data quality, field/page-layout changes, reporting, requirements, UAT and end-user training closely match Audrey's Orion work.",
+      "gap": "Standalone administrator ownership, enrollment-specific Salesforce data model and Salesforce certification are not established.",
+      "applyUrl": "https://job-boards.greenhouse.io/successacademycharterschool/jobs/5378029008",
+      "keywordMatch": 91,
+      "matchedKeywords": [
+        "Salesforce",
+        "Flow Builder",
+        "data integrity",
+        "validation rules",
+        "page layouts",
+        "requirements gathering",
+        "UAT",
+        "training",
+        "documentation",
+        "stakeholder management",
+        "business analysis"
+      ],
+      "missingKeywords": [
+        "Salesforce administrator certification",
+        "Service Cloud / Marketing Cloud depth",
+        "enrollment lottery domain",
+        "full-time administrator ownership"
+      ],
+      "jdKeywords": [
+        "Salesforce administration",
+        "Flows",
+        "reports",
+        "dashboards",
+        "page layouts",
+        "data quality",
+        "user permissions",
+        "requirements",
+        "UAT",
+        "training",
+        "Data Loader"
+      ]
+    },
+    {
+      "id": "permitflow-implementation-specialist-162a2072",
+      "title": "Implementation Specialist",
+      "company": "PermitFlow",
+      "location": "New York, NY — hybrid (Mon/Wed/Fri office), up to 25% travel",
+      "salary": "$100,000–$130,000 OTE (not guaranteed base); equity",
+      "fit": 87,
+      "resume": "C",
+      "why": "Cross-functional implementations, requirements, onboarding process design, training materials and stakeholder coordination build on Audrey's BA and user-enablement experience.",
+      "gap": "End-to-end external B2B SaaS customer onboarding and permitting-domain experience not established; travel and variable OTE are tradeoffs.",
+      "applyUrl": "https://jobs.ashbyhq.com/permitflow/162a2072-04d5-4402-be27-377a95962b3b/",
+      "keywordMatch": 82,
+      "matchedKeywords": [
+        "implementation",
+        "cross-functional coordination",
+        "stakeholder management",
+        "training",
+        "documentation",
+        "process improvement",
+        "requirements",
+        "workflow automation"
+      ],
+      "missingKeywords": [
+        "customer go-live ownership",
+        "B2B SaaS customer success",
+        "permitting workflows",
+        "time-to-value metrics"
+      ],
+      "jdKeywords": [
+        "customer onboarding",
+        "implementation plans",
+        "launch",
+        "product adoption",
+        "stakeholder coordination",
+        "training",
+        "KPIs",
+        "playbooks",
+        "risk escalation"
+      ]
+    },
+    {
+      "id": "chainalysis-senior-business-ops-78975a32",
+      "title": "Senior Business Operations Analyst",
+      "company": "Chainalysis",
+      "location": "New York, NY — hybrid",
+      "salary": "$125,000–$161,000 Tier 1 / $105,000–$141,000 Tier 2; bonus/equity",
+      "fit": 85,
+      "resume": "C",
+      "why": "Cross-functional planning, process improvement, data-backed recommendations, reporting, change management and executive stakeholder coordination align with Audrey's BA and reporting experience.",
+      "gap": "Senior-level ownership of company-wide operating cadences, strategic planning and GTM/pricing initiatives is not demonstrated.",
+      "applyUrl": "https://jobs.ashbyhq.com/chainalysis-careers/78975a32-c00f-4b1b-bc4e-2462857d0a5a",
+      "keywordMatch": 80,
+      "matchedKeywords": [
+        "business analysis",
+        "process improvement",
+        "analytics",
+        "stakeholder management",
+        "cross-functional coordination",
+        "reporting",
+        "implementation",
+        "change management"
+      ],
+      "missingKeywords": [
+        "enterprise strategic planning ownership",
+        "pricing and packaging",
+        "GTM launch ownership",
+        "Jira / Confluence",
+        "Databricks"
+      ],
+      "jdKeywords": [
+        "business operations",
+        "strategic planning",
+        "KPI reporting",
+        "cross-functional initiatives",
+        "operating cadence",
+        "executive communication",
+        "process improvement",
+        "change management"
+      ]
+    },
+    {
+      "id": "morgan-stanley-equityzen-associate-ux-pt-jr035408",
+      "title": "Associate, UX Designer – Equity Zen",
+      "company": "Morgan Stanley",
+      "location": "New York, NY — on-site",
+      "salary": "$58,000–$115,000 base (wide range; $100K not assured)",
+      "fit": 78,
+      "resume": "B",
+      "why": "Audrey's UX bootcamp research and usability testing, Figma exposure and BA stakeholder feedback translate to the research/collaboration side of this associate design role.",
+      "gap": "Strong design portfolio, 1–3 years direct UX/UI employment, Adobe Creative Suite and high-fidelity production work are not evidenced.",
+      "applyUrl": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Associate--UX-Designer---Equity-Zen_PT-JR035408",
+      "keywordMatch": 68,
+      "matchedKeywords": [
+        "user research",
+        "usability testing",
+        "user feedback",
+        "Figma",
+        "cross-functional collaboration",
+        "requirements gathering",
+        "Agile"
+      ],
+      "missingKeywords": [
+        "professional UX/UI design experience",
+        "strong published portfolio",
+        "Adobe Creative Suite",
+        "high-fidelity UI production",
+        "developer handoff"
+      ],
+      "jdKeywords": [
+        "UX/UI design",
+        "user research",
+        "wireframes",
+        "user flows",
+        "prototyping",
+        "Figma",
+        "Adobe Creative Suite",
+        "usability testing",
+        "portfolio",
+        "interaction design"
+      ]
+    },
+    {
+      "id": "allocate-senior-data-ops-228c1cf7",
+      "title": "Senior Data Operations Analyst",
+      "company": "Allocate",
+      "location": "New York, NY — on-site",
+      "salary": "$95,000–$135,000 base; possible bonus/equity",
+      "fit": 79,
+      "resume": "C",
+      "why": "Historical Salesforce data auditing, duplicate/validation workflows, financial reporting QA, reconciliation-like comparisons and documentation provide a relevant data-operations foundation.",
+      "gap": "Direct private-markets/fund data operations, hands-on formal financial reconciliation and strong SQL are not demonstrated.",
+      "applyUrl": "https://jobs.ashbyhq.com/allocate/228c1cf7-d257-4db6-bafd-3eca09fe19f7",
+      "keywordMatch": 76,
+      "matchedKeywords": [
+        "data quality",
+        "validation rules",
+        "exception workflows",
+        "data analysis",
+        "process improvement",
+        "documentation",
+        "SQL (foundational)",
+        "Tableau"
+      ],
+      "missingKeywords": [
+        "private markets fund data",
+        "formal reconciliation ownership",
+        "master data operations",
+        "advanced SQL",
+        "Python",
+        "dbt"
+      ],
+      "jdKeywords": [
+        "data operations",
+        "data reconciliation",
+        "data quality checks",
+        "validation rules",
+        "exception workflows",
+        "SQL",
+        "fund operations",
+        "documentation",
+        "process improvement"
+      ]
+    }
+  ]
+}
