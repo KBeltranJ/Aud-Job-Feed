@@ -1,5 +1,57 @@
 {
-  "updatedAt": "2026-11-04T00:03:32Z",
+  "updatedAt": "2026-11-04T11:56:50Z",
   "source": "daily-chatgpt-search",
-  "jobs": []
+  "jobs": [
+    {
+      "id": "tenth-revolution-salesforce-technical-business-analyst-20261029",
+      "title": "Salesforce Technical Business Analyst (Contract)",
+      "company": "Tenth Revolution Group / Mason Frank International (client undisclosed)",
+      "location": "Remote, US; listed New York City",
+      "salary": "$65–$75/hour contract (approx. $135,200–$156,000 annualized at 40 hours/week; not guaranteed salary or benefits)",
+      "fit": 86,
+      "resume": "A",
+      "why": "Strong overlap with Orion Salesforce requirements discovery, user stories, acceptance criteria, backlog collaboration, UAT, Flow configuration, stakeholder communication, and process automation. Posted October 29, 2026.",
+      "gap": "Contract rather than permanent; private equity and Financial Services Cloud / Marketing Cloud Account Engagement experience not evident; Azure ticketing and independent release/defect ownership are gaps.",
+      "applyUrl": "https://www.tenthrevolution.com/job/salesforce-technical-business-analyst/",
+      "keywordMatch": 88,
+      "matchedKeywords": [
+        "Salesforce",
+        "requirements gathering",
+        "user stories",
+        "acceptance criteria",
+        "UAT",
+        "backlog refinement",
+        "Flow automation",
+        "Salesforce objects and fields",
+        "basic configuration",
+        "stakeholder management",
+        "workflow automation",
+        "documentation"
+      ],
+      "missingKeywords": [
+        "Financial Services Cloud",
+        "Marketing Cloud Account Engagement",
+        "private equity",
+        "Azure ticketing",
+        "independent defect triage",
+        "release deployment scheduling"
+      ],
+      "jdKeywords": [
+        "Salesforce",
+        "financial services",
+        "requirements gathering",
+        "user stories",
+        "acceptance criteria",
+        "UAT",
+        "backlog",
+        "Flow automation",
+        "Salesforce configuration",
+        "release management",
+        "Financial Services Cloud",
+        "Marketing Cloud Account Engagement",
+        "Azure",
+        "AI workflows"
+      ]
+    }
+  ]
 }
