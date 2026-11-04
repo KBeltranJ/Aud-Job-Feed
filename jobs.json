@@ -1,53 +1,5 @@
 {
-  "updatedAt": "2026-11-04T15:04:30Z",
+  "updatedAt": "2026-11-04T18:04:15Z",
   "source": "daily-chatgpt-search",
-  "jobs": [
-    {
-      "id": "bestow-business-systems-analyst-1099-20261005",
-      "title": "Business Systems Analyst (1099 Contract)",
-      "company": "Bestow",
-      "location": "Remote, contiguous United States",
-      "salary": "$55–$65/hour, six-month 1099 contract (approximately $114,400–$135,200 annualized at 40 hours/week; no guaranteed annual salary or benefits)",
-      "fit": 83,
-      "resume": "A",
-      "why": "2+ years BSA requirement aligns with Orion BA tenure; gather and document requirements, translate business needs for engineering, work with stakeholders, and organize complex data. Strong traditional business systems overlap.",
-      "gap": "Six-month 1099 engagement with no guaranteed benefits; insurance carrier and underwriting knowledge absent; Jira and Confluence not used at Orion; technical specifications for insurance product configurations are a stretch.",
-      "applyUrl": "https://jobs.ashbyhq.com/bestow/dca2806b-3be5-4890-bf93-0f6f601f61a1",
-      "keywordMatch": 80,
-      "matchedKeywords": [
-        "business systems analysis",
-        "requirements gathering",
-        "business requirements documentation",
-        "stakeholder communication",
-        "cross-functional coordination",
-        "data analysis",
-        "Google Sheets",
-        "Tableau",
-        "process documentation"
-      ],
-      "missingKeywords": [
-        "insurance carrier implementations",
-        "underwriting workflows",
-        "policy administration systems",
-        "Jira",
-        "Confluence",
-        "Grist",
-        "insurance configuration specifications"
-      ],
-      "jdKeywords": [
-        "business systems analysis",
-        "requirements gathering",
-        "technical specifications",
-        "insurance carriers",
-        "product configuration data",
-        "stakeholder communication",
-        "Google Sheets",
-        "Jira",
-        "Confluence",
-        "Tableau",
-        "Grist",
-        "underwriting"
-      ]
-    }
-  ]
+  "jobs": []
 }
