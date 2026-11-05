@@ -1,5 +1,53 @@
 {
-  "updatedAt": "2026-11-05T12:03:48Z",
+  "updatedAt": "2026-11-05T15:03:44Z",
   "source": "daily-chatgpt-search",
-  "jobs": []
+  "jobs": [
+    {
+      "id": "maven-clinic-senior-associate-client-success-8929932002",
+      "title": "Senior Associate, Client Success",
+      "company": "Maven Clinic",
+      "location": "New York, NY hybrid / Remote US (hub cities; NYC work-together days)",
+      "salary": "$85,000–$95,000 base + equity/benefits",
+      "fit": 76,
+      "resume": "C",
+      "why": "Strong stakeholder communication, Salesforce CRM hygiene, user training, process improvement, cross-functional coordination, reporting, and healthcare-operations exposure through Horizon Blue ABA. Posted November 4, 2026.",
+      "gap": "Requires 2+ years direct client services/account management in health/SaaS, renewals, upsells and portfolio ownership; Audrey's experience is predominantly internal BA/stakeholder support, not proven external account management.",
+      "applyUrl": "https://job-boards.greenhouse.io/mavenclinic/jobs/8929932002",
+      "keywordMatch": 70,
+      "matchedKeywords": [
+        "Salesforce",
+        "CRM data integrity",
+        "stakeholder management",
+        "cross-functional collaboration",
+        "process improvement",
+        "training",
+        "analytics/reporting",
+        "presentation skills",
+        "documentation",
+        "healthcare operations exposure"
+      ],
+      "missingKeywords": [
+        "direct client account management",
+        "renewals",
+        "upselling",
+        "channel partner management",
+        "client satisfaction ownership",
+        "post-sales customer success lifecycle"
+      ],
+      "jdKeywords": [
+        "client success",
+        "account management",
+        "Salesforce",
+        "Looker",
+        "client escalations",
+        "customer retention",
+        "renewals",
+        "training",
+        "cross-functional collaboration",
+        "CRM hygiene",
+        "process improvement",
+        "healthcare"
+      ]
+    }
+  ]
 }
