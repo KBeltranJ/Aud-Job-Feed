@@ -1,7 +1,58 @@
 {
-  "updatedAt": "2026-11-05T21:04:31Z",
+  "updatedAt": "2026-11-05T23:56:46Z",
   "source": "daily-chatgpt-search",
   "jobs": [
+    {
+      "id": "nerdwallet-marketing-operations-associate-contract-ny-b435b27f",
+      "title": "Marketing Operations Associate (Contract) - NY",
+      "company": "NerdWallet",
+      "location": "New York City preferred / Remote US; Manhattan office ~monthly if converted",
+      "salary": "$30–$50/hour W-2; 3–6 months, potential conversion",
+      "fit": 88,
+      "resume": "C",
+      "why": "Posted October 30, 2026 (independently corroborated). Direct match for reporting, Excel/Google Sheets, QA and discrepancies, finance reconciliation, contract workflow coordination, stakeholder follow-up, project tracking, and operational process improvement; 0–3 years relevant experience preferred.",
+      "gap": "Marketing affiliate operations, Voluum, lender regulatory compliance, Ironclad, and WordPress content updates are not demonstrated. W-2 contract only 3–6 months; conversion is not guaranteed.",
+      "applyUrl": "https://jobs.ashbyhq.com/nerdwallet/b435b27f-96b5-4ce5-b73d-0643a831d857",
+      "keywordMatch": 84,
+      "matchedKeywords": [
+        "project coordination",
+        "cross-functional coordination",
+        "Excel and Google Sheets",
+        "reporting and dashboards",
+        "data accuracy and discrepancy resolution",
+        "finance reporting QA",
+        "contracts workflow coordination",
+        "process improvement",
+        "stakeholder follow-up",
+        "documentation",
+        "workflow automation",
+        "statistics degree"
+      ],
+      "missingKeywords": [
+        "Voluum affiliate campaign setup",
+        "Ironclad CLM",
+        "lender compliance and APR disclosures",
+        "WordPress landing-page operations",
+        "partner invoice approval ownership",
+        "performance marketing experience"
+      ],
+      "jdKeywords": [
+        "marketing operations",
+        "Google Sheets dashboards",
+        "data reconciliation",
+        "lender compliance",
+        "affiliate campaign operations",
+        "Voluum",
+        "Ironclad",
+        "partner contracts",
+        "invoice reconciliation",
+        "cross-functional coordination",
+        "project coordination",
+        "AI automation",
+        "WordPress",
+        "0–3 years experience"
+      ]
+    },
     {
       "id": "maven-clinic-senior-associate-client-success-8929932002",
       "title": "Senior Associate, Client Success",
