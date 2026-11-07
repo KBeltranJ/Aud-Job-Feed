@@ -1,49 +1,85 @@
 {
-  "updatedAt": "2026-11-07T17:56:19Z",
+  "updatedAt": "2026-11-07T21:04:32Z",
   "source": "daily-chatgpt-search",
   "jobs": [
     {
-      "id": "alpaca-health-revenue-operations-associate-13a689e1",
-      "title": "Revenue Operations Associate",
-      "company": "Alpaca Health",
-      "location": "New York City, NY / United States — remote",
-      "salary": "$60,000–$90,000",
-      "fit": 82,
-      "resume": "A",
-      "why": "Directly relevant to Audrey's Salesforce CRM workflow automation, requirements translation, data quality, cross-functional coordination, and operational systems improvements. Employer accepts new graduates. Original posting date unverified; do not treat as confirmed posted within seven days.",
-      "gap": "HubSpot, Zapier, Airtable, integrations with ERPs/EHRs, and independent end-to-end revenue systems ownership not demonstrated; fast-moving startup.",
-      "applyUrl": "https://jobs.ashbyhq.com/alpacahealth/13a689e1-4cae-4239-abf7-0a9b05d17254",
-      "keywordMatch": 76,
+      "id": "basis-research-business-operations-associate-18e40048",
+      "title": "Business Operations Associate",
+      "company": "Basis Research Institute",
+      "location": "New York, NY — hybrid; at least 2 days onsite/week for part-time",
+      "salary": "$50–$70/hour; approximately 20 hours/week preferred",
+      "fit": 90,
+      "resume": "C",
+      "why": "Strong fit for Audrey's Salesforce CRM data integrity, contract-request Flow automation, documentation, stakeholder follow-up, and cross-functional operations. Part-time option matches her flexibility. Original posting date unverified.",
+      "gap": "Commercial deal desk, investor/funder relationships, and direct ownership of sales pipeline not demonstrated; requires NYC office attendance.",
+      "applyUrl": "https://jobs.ashbyhq.com/basis-research/18e40048-fa0a-4118-ae3f-cafd38c59289/",
+      "keywordMatch": 88,
       "matchedKeywords": [
-        "CRM workflows",
+        "Salesforce CRM",
+        "CRM data accuracy",
+        "contract workflows",
         "workflow automation",
-        "business requirements",
-        "cross-functional collaboration",
-        "process improvement",
-        "data integrity",
-        "reporting",
-        "implementation"
+        "documentation",
+        "cross-functional coordination",
+        "follow-up communication",
+        "process improvement"
       ],
       "missingKeywords": [
-        "HubSpot",
-        "Zapier",
-        "Airtable",
-        "ERP/EHR integrations",
-        "GTM revenue systems ownership"
+        "deal desk ownership",
+        "investor and philanthropic relationships",
+        "sales pipeline ownership"
       ],
       "jdKeywords": [
-        "HubSpot workflows",
-        "CRM architecture",
-        "lead routing",
-        "lifecycle stages",
-        "reporting",
-        "Zapier",
-        "Airtable",
-        "integrations",
-        "ERP",
-        "EHR",
-        "business requirements",
-        "technical workflows"
+        "CRM",
+        "Salesforce",
+        "HubSpot",
+        "deal tracking",
+        "commercial contracts",
+        "accurate records",
+        "follow-up emails",
+        "workflow automation",
+        "business operations",
+        "partnerships"
+      ]
+    },
+    {
+      "id": "fortuna-health-product-operations-associate-aa48c14b",
+      "title": "Product Operations Associate",
+      "company": "Fortuna Health",
+      "location": "New York, NY — onsite 5 days/week",
+      "salary": "$90,000 plus equity",
+      "fit": 86,
+      "resume": "C",
+      "why": "Combines process operations, investigating user problems, spreadsheet analysis, engineering collaboration and consumer support. Audrey's UAT, workflow improvements, data QA, training and stakeholder issue resolution are transferable. Original posting date unverified.",
+      "gap": "Direct frontline consumer support and Medicaid workflows not demonstrated; full-time five-day onsite startup environment.",
+      "applyUrl": "https://jobs.ashbyhq.com/fortuna-health/aa48c14b-e38e-4f27-84ef-a6b032bb9b60",
+      "keywordMatch": 83,
+      "matchedKeywords": [
+        "process improvement",
+        "Excel",
+        "Google Sheets",
+        "data analysis",
+        "issue investigation",
+        "cross-functional collaboration",
+        "operational workflows",
+        "documentation"
+      ],
+      "missingKeywords": [
+        "Medicaid eligibility operations",
+        "direct consumer support",
+        "high-volume application processing"
+      ],
+      "jdKeywords": [
+        "process operations",
+        "consumer operations",
+        "consumer support",
+        "engineering collaboration",
+        "product bugs",
+        "Excel",
+        "Google Sheets",
+        "analytical problem solving",
+        "Medicaid",
+        "user pain points"
       ]
     }
   ]
