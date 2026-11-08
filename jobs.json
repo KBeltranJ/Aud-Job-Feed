@@ -1,5 +1,52 @@
 {
-  "updatedAt": "2026-11-08T18:03:09Z",
+  "updatedAt": "2026-11-08T20:56:49Z",
   "source": "daily-chatgpt-search",
-  "jobs": []
+  "jobs": [
+    {
+      "id": "nerdwallet-marketing-operations-associate-contract-ny",
+      "title": "Marketing Operations Associate (Contract) - NY",
+      "company": "NerdWallet",
+      "location": "US remote; NYC candidates preferred",
+      "salary": "$30–$50/hour; 3–6-month W-2 contract, up to 40 hours/week",
+      "fit": 86,
+      "resume": "C",
+      "why": "Strong overlap with Audrey's reporting QA, spreadsheet tracking, finance coordination, contract workflow automation, stakeholder follow-up, and documentation. Employer prefers 0–3 years of relevant experience and accepts operations backgrounds.",
+      "gap": "Affiliate marketing platforms (Voluum), regulated lending disclosures, Ironclad, and direct invoice reconciliation are not demonstrated. Contract may not convert; hours may be near full-time. Original posting appears October 30, 2026, outside the last-seven-day priority window.",
+      "applyUrl": "https://jobs.ashbyhq.com/nerdwallet/b435b27f-96b5-4ce5-b73d-0643a831d857",
+      "keywordMatch": 82,
+      "matchedKeywords": [
+        "Google Sheets",
+        "reporting and dashboards",
+        "data quality and discrepancy investigation",
+        "cross-functional coordination",
+        "contract workflow tracking",
+        "documentation",
+        "stakeholder follow-up",
+        "operational process improvement",
+        "financial reporting QA"
+      ],
+      "missingKeywords": [
+        "Voluum affiliate campaign configuration",
+        "Ironclad",
+        "lending APR and disclosure compliance",
+        "direct invoice reconciliation",
+        "affiliate attribution platforms",
+        "SQL production querying"
+      ],
+      "jdKeywords": [
+        "Google Sheets dashboards",
+        "monthly billing accuracy",
+        "financial reconciliation",
+        "affiliate campaigns",
+        "Voluum",
+        "Ironclad",
+        "contract pipeline",
+        "lender compliance",
+        "stakeholder communication",
+        "cross-functional coordination",
+        "process improvement",
+        "SQL"
+      ]
+    }
+  ]
 }
