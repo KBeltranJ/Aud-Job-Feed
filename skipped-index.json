@@ -1,0 +1,29 @@
+{
+  "purpose": "Public job-level exclusion index for Audrey's Job Feed recommendations. Contains only generalized company and role identifiers; no private application details.",
+  "jobs": [
+    {
+      "company": "Ashby",
+      "title": "Implementation Consultant"
+    },
+    {
+      "company": "Kairon Health",
+      "title": "Enterprise Customer Success/Operations Specialist"
+    },
+    {
+      "company": "Gibson Dunn",
+      "title": "Legal Operations Specialist"
+    },
+    {
+      "company": "Attentive",
+      "title": "Legal Operations Analyst"
+    },
+    {
+      "company": "Hello Patient",
+      "title": "Implementation Specialist"
+    },
+    {
+      "company": "Healthfirst",
+      "title": "Procurement Digital Transformation Lead"
+    }
+  ]
+}
