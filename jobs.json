@@ -1,51 +1,7 @@
 {
-  "updatedAt": "2026-11-10T05:53:04.917Z",
+  "updatedAt": "2026-11-10T10:00:00Z",
   "source": "skill-first-chatgpt-search",
   "jobs": [
-    {
-      "id": "fundingo-implementation-manager-a3b05d5f",
-      "title": "Implementation Manager",
-      "company": "FUNDINGO",
-      "location": "Remote — United States",
-      "salary": "$100,000–$140,000 base range (commission/bonus also listed)",
-      "fit": 90,
-      "resume": "A",
-      "why": "Salesforce-native implementation: hands-on fields, Flows, requirements, UAT, client training, process improvement, and project tracking closely parallel Audrey's work.",
-      "gap": "Direct external client ownership and lending operations are not documented; lending is preferred rather than required. Confirm link remains open before applying.",
-      "applyUrl": "https://jobs.ashbyhq.com/fundingo/a3b05d5f-ead9-4dee-b758-777ee036cedf",
-      "keywordMatch": 89,
-      "matchedKeywords": [
-        "Salesforce administration",
-        "Salesforce Flows",
-        "requirements gathering",
-        "user stories",
-        "acceptance criteria",
-        "UAT",
-        "training documentation",
-        "implementation support",
-        "workflow automation",
-        "Agile tracking"
-      ],
-      "missingKeywords": [
-        "customer-facing implementation ownership",
-        "lending lifecycle",
-        "Jira",
-        "data migrations"
-      ],
-      "jdKeywords": [
-        "Salesforce",
-        "flows",
-        "page layouts",
-        "requirements",
-        "data conversion",
-        "go-live",
-        "client onboarding",
-        "project risks",
-        "Jira",
-        "implementation",
-        "training"
-      ]
-    },
     {
       "id": "imprint-program-operations-associate-b630b601",
       "title": "Program Operations Associate",
@@ -160,44 +116,6 @@
         "executive governance",
         "documentation",
         "blockchain network data"
-      ]
-    },
-    {
-      "id": "keebler-health-implementation-manager-37520559",
-      "title": "Implementation Manager",
-      "company": "Keebler Health",
-      "location": "Remote — United States (NY preferred)",
-      "salary": "$100,000–$150,000",
-      "fit": 78,
-      "resume": "C",
-      "why": "Requirements, project timeline management, enterprise user adoption, training, testing and coordinating between business and technical users fit the implementation work Audrey has done.",
-      "gap": "Direct healthcare customer implementations, EHR data handling, and end-to-end external client ownership are meaningful stretch areas.",
-      "applyUrl": "https://jobs.ashbyhq.com/keebler-health/37520559-716b-4b8a-aa22-b2320214cf35",
-      "keywordMatch": 76,
-      "matchedKeywords": [
-        "implementation planning",
-        "cross-functional coordination",
-        "user adoption",
-        "training",
-        "requirements",
-        "risk and issue tracking",
-        "technical documentation",
-        "workflow improvement"
-      ],
-      "missingKeywords": [
-        "healthcare data/EHR",
-        "FHIR HL7",
-        "direct client implementation ownership",
-        "value-based care"
-      ],
-      "jdKeywords": [
-        "implementation",
-        "healthcare",
-        "EHR",
-        "stakeholders",
-        "adoption",
-        "risk management",
-        "launch"
       ]
     },
     {
