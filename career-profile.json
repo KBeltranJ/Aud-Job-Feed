@@ -61,7 +61,8 @@
       "Head of"
     ],
     "employmentTypes": [
-      "Full-time"
+      "Full-time",
+      "Part-time"
     ],
     "workArrangements": [
       "Remote",
@@ -94,7 +95,8 @@
       "Relocation required outside the selected search area",
       "Manager-level or people-management responsibilities"
     ],
-    "seniorityPreference": "Individual-contributor positions only; avoid manager-level scope and responsibilities even when the title lacks Manager."
+    "seniorityPreference": "Individual-contributor positions only; avoid manager-level scope and responsibilities even when the title lacks Manager.",
+    "partTimePreference": "Include part-time individual-contributor positions across industries; skill match first. Report weekly hours and actual hourly rate or part-time compensation when provided. Do not apply the full-time annual base salary floor directly to part-time wages."
   },
   "resumeTracks": {
     "A": {
