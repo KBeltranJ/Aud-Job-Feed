@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-10T10:00:00Z",
-  "source": "skill-first-chatgpt-search",
+  "updatedAt": "2026-11-10T06:13:35.078Z",
+  "source": "skill-first-full-and-part-time-chatgpt-search",
   "jobs": [
     {
       "id": "imprint-program-operations-associate-b630b601",
@@ -158,6 +158,121 @@
         "tracking",
         "audits",
         "training"
+      ]
+    },
+    {
+      "id": "forbes-vetted-operations-coordinator-6230198004",
+      "title": "Temporary Operations Coordinator, Best Product Awards",
+      "company": "Forbes",
+      "location": "Jersey City, NJ — hybrid; NY/NJ photoshoots",
+      "salary": "$25–$35/hour; up to 25 hours/week; seasonal Nov 2026–Mar 2027",
+      "fit": 89,
+      "resume": "C",
+      "why": "Audrey's Asana/Monday.com work tracking, financial report preparation, cross-team logistics, accurate records, and stakeholder follow-ups transfer to product sample purchasing, tracking and coordinating editorial testing.",
+      "gap": "Direct product sample shipping, photo-shoot logistics, and editorial coordination not demonstrated; part-time and seasonal; cover letter is required.",
+      "applyUrl": "https://job-boards.greenhouse.io/forbes/jobs/6230198004?gh_src=qxn2ht7b4us",
+      "keywordMatch": 88,
+      "matchedKeywords": [
+        "Asana",
+        "Monday.com",
+        "project trackers",
+        "cross-team coordination",
+        "follow-ups",
+        "process documentation",
+        "reporting accuracy"
+      ],
+      "missingKeywords": [
+        "sample procurement/shipping",
+        "photo-shoot operations",
+        "editorial awards"
+      ],
+      "jdKeywords": [
+        "product sample purchasing",
+        "sample tracking",
+        "tester coordination",
+        "Asana",
+        "Monday.com",
+        "logistics",
+        "trackers",
+        "feedback"
+      ]
+    },
+    {
+      "id": "dream-three-business-operations-coordinator-b37e1461",
+      "title": "Business Operations Coordinator",
+      "company": "Dream Three",
+      "location": "Remote US or NYC/LA hybrid",
+      "salary": "$25–$35/hour; initially ~25 hours/week; part-time W-2",
+      "fit": 92,
+      "resume": "C",
+      "why": "Exceptional skills overlap: contract/deal memo support, follow-up tracking, Asana work queues, invoice checking, record upkeep, stakeholder coordination, and workflow improvement from Audrey's BA and operations career.",
+      "gap": "Executive calendar/travel support, entertainment bookings and DocuSign/Airtable experience not evidenced. Some evenings, weekends and occasional travel possible.",
+      "applyUrl": "https://jobs.ashbyhq.com/dreamthree/b37e1461-4154-4e64-abbd-eadb8eb2d79d",
+      "keywordMatch": 91,
+      "matchedKeywords": [
+        "Asana",
+        "contracts workflow",
+        "Finance",
+        "Excel",
+        "issue tracking",
+        "cross-team coordination",
+        "documentation",
+        "process improvement"
+      ],
+      "missingKeywords": [
+        "executive support scheduling",
+        "booking logistics",
+        "Airtable",
+        "entertainment industry"
+      ],
+      "jdKeywords": [
+        "operations coordination",
+        "financial paperwork",
+        "invoice checks",
+        "contracts",
+        "deal memos",
+        "Asana",
+        "trackers",
+        "project handoffs",
+        "executive support"
+      ]
+    },
+    {
+      "id": "lantern-operations-automation-specialist-5256718007",
+      "title": "Operations Automation Specialist",
+      "company": "Lantern",
+      "location": "New York, NY — hybrid, 3 days/week",
+      "salary": "$90,000–$120,000 base",
+      "fit": 85,
+      "resume": "A",
+      "why": "Direct match to Salesforce automation, auditing data discrepancies, resolving complex end-user issues, documenting root causes, building verification into workflows and AI-assisted experimentation with RoleMatch.",
+      "gap": "Needs willingness to resolve provider billing/claims inquiries and independently grow SQL, Python and agentic AI tooling; no healthcare claims background required by employer.",
+      "applyUrl": "https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5256718007",
+      "keywordMatch": 84,
+      "matchedKeywords": [
+        "workflow automation",
+        "data auditing",
+        "issue investigation",
+        "stakeholder communication",
+        "cross-functional collaboration",
+        "validation/testing",
+        "AI-assisted product",
+        "process improvement"
+      ],
+      "missingKeywords": [
+        "hands-on healthcare claims",
+        "working SQL queries",
+        "Python/agentic AI development"
+      ],
+      "jdKeywords": [
+        "AI-assisted workflows",
+        "provider inquiries",
+        "SQL",
+        "root-cause analysis",
+        "claims verification",
+        "data validation",
+        "customer communication",
+        "automation"
       ]
     }
   ]
