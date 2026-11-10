@@ -1,5 +1,246 @@
 {
-  "updatedAt": "2026-11-10T00:04:07Z",
-  "source": "daily-chatgpt-search",
-  "jobs": []
+  "updatedAt": "2026-11-10T05:53:04.917Z",
+  "source": "skill-first-chatgpt-search",
+  "jobs": [
+    {
+      "id": "fundingo-implementation-manager-a3b05d5f",
+      "title": "Implementation Manager",
+      "company": "FUNDINGO",
+      "location": "Remote — United States",
+      "salary": "$100,000–$140,000 base range (commission/bonus also listed)",
+      "fit": 90,
+      "resume": "A",
+      "why": "Salesforce-native implementation: hands-on fields, Flows, requirements, UAT, client training, process improvement, and project tracking closely parallel Audrey's work.",
+      "gap": "Direct external client ownership and lending operations are not documented; lending is preferred rather than required. Confirm link remains open before applying.",
+      "applyUrl": "https://jobs.ashbyhq.com/fundingo/a3b05d5f-ead9-4dee-b758-777ee036cedf",
+      "keywordMatch": 89,
+      "matchedKeywords": [
+        "Salesforce administration",
+        "Salesforce Flows",
+        "requirements gathering",
+        "user stories",
+        "acceptance criteria",
+        "UAT",
+        "training documentation",
+        "implementation support",
+        "workflow automation",
+        "Agile tracking"
+      ],
+      "missingKeywords": [
+        "customer-facing implementation ownership",
+        "lending lifecycle",
+        "Jira",
+        "data migrations"
+      ],
+      "jdKeywords": [
+        "Salesforce",
+        "flows",
+        "page layouts",
+        "requirements",
+        "data conversion",
+        "go-live",
+        "client onboarding",
+        "project risks",
+        "Jira",
+        "implementation",
+        "training"
+      ]
+    },
+    {
+      "id": "imprint-program-operations-associate-b630b601",
+      "title": "Program Operations Associate",
+      "company": "Imprint",
+      "location": "New York, NY — hybrid",
+      "salary": "$120,000–$150,000",
+      "fit": 83,
+      "resume": "C",
+      "why": "End-to-end launches, coordinating Legal/Finance/Product stakeholders, tracking milestones, managing issues, documentation and scaling workflows map to Audrey's enterprise systems and Agile operations experience.",
+      "gap": "Card-program launches, regulatory/compliance and partner-facing credit card operations require a learning curve.",
+      "applyUrl": "https://jobs.ashbyhq.com/imprint/b630b601-5e23-4fc5-85e6-cbc4bc2b65d2",
+      "keywordMatch": 82,
+      "matchedKeywords": [
+        "cross-functional coordination",
+        "stakeholder management",
+        "project milestones",
+        "issue tracking",
+        "process improvements",
+        "documentation",
+        "Legal and Finance collaboration",
+        "system UAT"
+      ],
+      "missingKeywords": [
+        "card program launch operations",
+        "credit/fintech partner management",
+        "payments compliance"
+      ],
+      "jdKeywords": [
+        "partner launch",
+        "project milestones",
+        "Legal",
+        "Compliance",
+        "Product",
+        "Engineering",
+        "workstreams",
+        "playbooks",
+        "risk management"
+      ]
+    },
+    {
+      "id": "alteva-rcm-operations-specialist-4360640009",
+      "title": "Operations Specialist",
+      "company": "Alteva RCM",
+      "location": "Queens, NY — work arrangement not specified",
+      "salary": "$100,000–$125,000",
+      "fit": 86,
+      "resume": "C",
+      "why": "Strong overlap in operating procedures, Visio process maps, QA audits, cross-department coordination, issue resolution, status reporting and operational KPIs.",
+      "gap": "Revenue cycle management/billing domain and executive calendar/inbox support are not shown; confirm hybrid/onsite requirements.",
+      "applyUrl": "https://job-boards.greenhouse.io/altevarcm/jobs/4360640009",
+      "keywordMatch": 86,
+      "matchedKeywords": [
+        "operations coordination",
+        "process mapping",
+        "data quality",
+        "quality assurance",
+        "reporting",
+        "cross-functional projects",
+        "process improvement",
+        "documentation",
+        "KPI monitoring"
+      ],
+      "missingKeywords": [
+        "medical billing/RCM",
+        "executive calendar and inbox management",
+        "healthcare revenue-cycle systems"
+      ],
+      "jdKeywords": [
+        "project coordination",
+        "KPI",
+        "QA audits",
+        "SOPs",
+        "process maps",
+        "operational systems",
+        "revenue cycle",
+        "executive support"
+      ]
+    },
+    {
+      "id": "digital-asset-business-operations-data-analyst-4385554009",
+      "title": "Business Operations & Data Analyst",
+      "company": "Digital Asset",
+      "location": "New York, NY — hybrid",
+      "salary": "$100,000–$125,000",
+      "fit": 80,
+      "resume": "C",
+      "why": "Cross-functional Legal/Finance coordination, operational process automation, data accuracy and reporting strongly transfer; RoleMatch adds real applied AI-assisted product experimentation.",
+      "gap": "Role expects practical SQL/dashboard queries and a real interest in blockchain/capital markets, which are not established on the résumé.",
+      "applyUrl": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4385554009",
+      "keywordMatch": 78,
+      "matchedKeywords": [
+        "operations analysis",
+        "cross-functional workflows",
+        "Legal and Finance",
+        "data quality",
+        "AI tools",
+        "reporting",
+        "documentation",
+        "process automation"
+      ],
+      "missingKeywords": [
+        "SQL dashboards/BigQuery",
+        "blockchain",
+        "capital markets",
+        "web3"
+      ],
+      "jdKeywords": [
+        "SQL",
+        "BigQuery",
+        "AI automation",
+        "business operations",
+        "executive governance",
+        "documentation",
+        "blockchain network data"
+      ]
+    },
+    {
+      "id": "keebler-health-implementation-manager-37520559",
+      "title": "Implementation Manager",
+      "company": "Keebler Health",
+      "location": "Remote — United States (NY preferred)",
+      "salary": "$100,000–$150,000",
+      "fit": 78,
+      "resume": "C",
+      "why": "Requirements, project timeline management, enterprise user adoption, training, testing and coordinating between business and technical users fit the implementation work Audrey has done.",
+      "gap": "Direct healthcare customer implementations, EHR data handling, and end-to-end external client ownership are meaningful stretch areas.",
+      "applyUrl": "https://jobs.ashbyhq.com/keebler-health/37520559-716b-4b8a-aa22-b2320214cf35",
+      "keywordMatch": 76,
+      "matchedKeywords": [
+        "implementation planning",
+        "cross-functional coordination",
+        "user adoption",
+        "training",
+        "requirements",
+        "risk and issue tracking",
+        "technical documentation",
+        "workflow improvement"
+      ],
+      "missingKeywords": [
+        "healthcare data/EHR",
+        "FHIR HL7",
+        "direct client implementation ownership",
+        "value-based care"
+      ],
+      "jdKeywords": [
+        "implementation",
+        "healthcare",
+        "EHR",
+        "stakeholders",
+        "adoption",
+        "risk management",
+        "launch"
+      ]
+    },
+    {
+      "id": "nycha-contract-procurement-analyst-802007",
+      "title": "Contract & Procurement Analyst",
+      "company": "NYC Housing Authority (NYCHA)",
+      "location": "Queens, NY — in office",
+      "salary": "$90,000–$95,721",
+      "fit": 79,
+      "resume": "C",
+      "why": "Legal contract workflows, Finance reporting, document quality checks, data reconciliation, contract tracking, SOP and training documentation transfer well to this role.",
+      "gap": "Public procurement rules, solicitation/contract-award processes and specific government systems are new; civil-service exam/list requirements may restrict eligibility. In-office setting.",
+      "applyUrl": "https://cityjobs.nyc.gov/job/contract-and-procurement-analyst-in-queens-jid-48333",
+      "postingDate": "2026-10-15",
+      "keywordMatch": 76,
+      "matchedKeywords": [
+        "contracts",
+        "Legal",
+        "Finance",
+        "financial reconciliations",
+        "reports",
+        "data validation",
+        "SOPs",
+        "training",
+        "stakeholder coordination"
+      ],
+      "missingKeywords": [
+        "public procurement regulations",
+        "solicitation and award management",
+        "Oracle/eBuilder",
+        "civil service eligibility"
+      ],
+      "jdKeywords": [
+        "procurement",
+        "contracts",
+        "vendors",
+        "Legal",
+        "Finance",
+        "compliance",
+        "tracking",
+        "audits",
+        "training"
+      ]
+    }
+  ]
 }
