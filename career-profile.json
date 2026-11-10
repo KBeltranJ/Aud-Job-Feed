@@ -3,7 +3,7 @@
   "owner": "Audrey",
   "scope": "audrey-only-public-search-config",
   "resumeReviewStatus": "reviewed",
-  "updatedAt": "2026-09-15",
+  "updatedAt": "2026-11-10",
   "searchCriteria": {
     "targetTitles": [
       "Salesforce Business Analyst",
@@ -30,7 +30,16 @@
       "Customer Experience Analyst",
       "UX Analyst",
       "Experience Designer",
-      "Junior Product Designer"
+      "Junior Product Designer",
+      "Program Coordinator",
+      "Project Specialist",
+      "Procurement Coordinator",
+      "Vendor Operations Specialist",
+      "Contract Operations Specialist",
+      "Operations Specialist",
+      "Implementation Specialist",
+      "Customer Onboarding Specialist",
+      "Training & Enablement Specialist"
     ],
     "excludedTitles": [
       "Lead Product Designer",
@@ -39,10 +48,26 @@
       "Engineering Manager",
       "Software Engineer",
       "Salesforce Developer",
-      "Salesforce Architect"
+      "Salesforce Architect",
+      "Implementation Manager",
+      "Project Manager",
+      "Program Manager",
+      "Operations Manager",
+      "Customer Success Manager",
+      "Customer Enablement Manager",
+      "Manager",
+      "Director",
+      "VP",
+      "Head of"
     ],
-    "employmentTypes": ["Full-time"],
-    "workArrangements": ["Remote", "Hybrid", "On-site"],
+    "employmentTypes": [
+      "Full-time"
+    ],
+    "workArrangements": [
+      "Remote",
+      "Hybrid",
+      "On-site"
+    ],
     "locationPreset": "NYC / Long Island / Remote",
     "minimumBaseSalary": 80000,
     "preferredKeywords": [
@@ -66,8 +91,10 @@
       "Primarily visual or brand design role",
       "Commission-only compensation",
       "Unpaid role",
-      "Relocation required outside the selected search area"
-    ]
+      "Relocation required outside the selected search area",
+      "Manager-level or people-management responsibilities"
+    ],
+    "seniorityPreference": "Individual-contributor positions only; avoid manager-level scope and responsibilities even when the title lacks Manager."
   },
   "resumeTracks": {
     "A": {
