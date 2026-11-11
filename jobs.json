@@ -1,5 +1,49 @@
 {
-  "updatedAt": "2026-11-11T00:03:53Z",
+  "updatedAt": "2026-11-11T12:00:00Z",
   "source": "daily-chatgpt-search",
-  "jobs": []
+  "jobs": [
+    {
+      "id": "coney-island-prep-operations-associate-middle-school-8365227",
+      "title": "Operations Associate - Middle School",
+      "company": "Coney Island Prep",
+      "location": "Brooklyn, NY (onsite; Coney Island)",
+      "salary": "$60,500/year",
+      "fit": 78,
+      "resume": "C",
+      "why": "Strong overlap with maintaining accurate records, recurring reporting, documentation, cross-team coordination, Excel and operational tracking; direct employer application is active. Original posting date unverified.",
+      "gap": "Full-time onsite, reactive school/front-desk work with family calls, facilities duties and occasional evenings/weekends; not a design-track role or direct customer support experience.",
+      "applyUrl": "https://job-boards.greenhouse.io/coneyislandprep/jobs/8365227",
+      "keywordMatch": 80,
+      "matchedKeywords": [
+        "data accuracy",
+        "records maintenance",
+        "Excel",
+        "documentation",
+        "operational coordination",
+        "reporting",
+        "cross-functional communication",
+        "process improvement",
+        "attention to detail"
+      ],
+      "missingKeywords": [
+        "school operations",
+        "family-facing customer service",
+        "student information systems",
+        "school attendance procedures",
+        "facilities and inventory"
+      ],
+      "jdKeywords": [
+        "student records",
+        "compliance documentation",
+        "data entry",
+        "family communication",
+        "Excel",
+        "academic reports",
+        "operations",
+        "calendar management",
+        "inventory",
+        "customer service"
+      ]
+    }
+  ]
 }
