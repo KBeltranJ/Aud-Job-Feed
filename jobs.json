@@ -1,5 +1,100 @@
 {
-  "updatedAt": "2026-11-11T18:03:07Z",
+  "updatedAt": "2026-11-11T20:55:33Z",
   "source": "daily-chatgpt-search",
-  "jobs": []
+  "jobs": [
+    {
+      "id": "success-academy-crm-business-analyst-5455769008",
+      "title": "CRM Business Analyst",
+      "company": "Success Academy Charter Schools",
+      "location": "New York, NY — hybrid, Tue–Thu onsite",
+      "salary": "$115,000–$125,000/year",
+      "fit": 89,
+      "resume": "A",
+      "why": "Strong Salesforce BA overlap: requirements, user stories, process mapping, UAT, training, data governance, reporting and stakeholder coordination. Original posting date unverified; live employer application confirmed November 11, 2026.",
+      "gap": "HubSpot, marketing campaign/segmentation and lead nurturing experience not established; asks 3–5 years related experience.",
+      "applyUrl": "https://job-boards.greenhouse.io/successacademycharterschool/jobs/5455769008",
+      "keywordMatch": 84,
+      "matchedKeywords": [
+        "Salesforce",
+        "requirements gathering",
+        "user stories",
+        "acceptance criteria",
+        "process mapping",
+        "UAT",
+        "training",
+        "documentation",
+        "data quality",
+        "reporting",
+        "stakeholder management",
+        "workflow automation"
+      ],
+      "missingKeywords": [
+        "HubSpot",
+        "marketing segmentation",
+        "lead nurturing",
+        "campaign execution"
+      ],
+      "jdKeywords": [
+        "Salesforce",
+        "HubSpot",
+        "CRM roadmap",
+        "requirements",
+        "user stories",
+        "process mapping",
+        "UAT",
+        "training",
+        "marketing campaigns",
+        "data governance",
+        "dashboards"
+      ]
+    },
+    {
+      "id": "success-academy-business-analyst-salesforce-admin-5378029008",
+      "title": "Business Analyst/Salesforce Administrator",
+      "company": "Success Academy Charter Schools",
+      "location": "New York, NY — hybrid, Tue–Thu onsite",
+      "salary": "$110,000–$120,000/year",
+      "fit": 91,
+      "resume": "A",
+      "why": "Direct match for Salesforce Flow, validation rules, layouts, reports/dashboards, Data Loader, training, UAT and business requirements. Original posting date unverified; live employer application confirmed November 11, 2026.",
+      "gap": "Deep Sales/Service/Marketing Cloud breadth, education-sector domain knowledge and formal Salesforce administrator certification not established.",
+      "applyUrl": "https://job-boards.greenhouse.io/successacademycharterschool/jobs/5378029008",
+      "keywordMatch": 90,
+      "matchedKeywords": [
+        "Salesforce",
+        "Flow",
+        "validation rules",
+        "page layouts",
+        "reports",
+        "dashboards",
+        "Data Loader",
+        "UAT",
+        "training",
+        "requirements",
+        "data quality",
+        "permissions",
+        "Agile"
+      ],
+      "missingKeywords": [
+        "Marketing Cloud",
+        "Service Cloud administration",
+        "education sector experience",
+        "Salesforce Administrator certification"
+      ],
+      "jdKeywords": [
+        "Salesforce administration",
+        "Flow",
+        "validation rules",
+        "reports",
+        "dashboards",
+        "Data Loader",
+        "UAT",
+        "end-user training",
+        "requirements",
+        "data governance",
+        "Sales Cloud",
+        "Service Cloud"
+      ]
+    }
+  ]
 }
