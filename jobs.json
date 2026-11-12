@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-11-12T20:56:05Z",
+  "updatedAt": "2026-11-12T23:55:22Z",
   "source": "daily-chatgpt-search",
   "jobs": [
+    {
+      "id": "fanatics-business-operations-associate-nyc-4502307009",
+      "title": "Business Operations Associate",
+      "company": "Fanatics Betting & Gaming",
+      "location": "New York, NY — office attendance required; exact schedule unspecified",
+      "salary": "$70,000–$85,000 base",
+      "fit": 88,
+      "resume": "C",
+      "why": "Strong overlap with operations systems, intake workflow automation, financial reporting QA, monthly trackers, cross-team reconciliation and training; JD requests only 1–2 years.",
+      "gap": "No demonstrated TicketManager, ticket inventory pricing, vendor invoicing or budget cross-charging; some evening/event and month-end work; sports interest not established. Original posting date unverified.",
+      "applyUrl": "https://job-boards.greenhouse.io/fanaticsfbg/jobs/4502307009",
+      "keywordMatch": 84,
+      "matchedKeywords": [
+        "workflow automation",
+        "request intake",
+        "data integrity",
+        "reporting",
+        "monthly financial QA",
+        "Excel",
+        "cross-functional coordination",
+        "training",
+        "process improvement",
+        "AI tools"
+      ],
+      "missingKeywords": [
+        "TicketManager",
+        "ticket inventory pricing",
+        "vendor invoicing",
+        "budget cross-charges",
+        "sports fandom"
+      ],
+      "jdKeywords": [
+        "ticket inventory",
+        "pricing",
+        "request intake",
+        "workflow automation",
+        "budget coding",
+        "reconciliation",
+        "month-end reporting",
+        "Excel",
+        "AI tools",
+        "vendor invoices",
+        "cross-functional coordination"
+      ]
+    },
     {
       "id": "whippy-associate-customer-success-manager-remote-us",
       "title": "Associate Customer Success Manager",
