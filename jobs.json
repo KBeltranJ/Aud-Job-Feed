@@ -1,5 +1,48 @@
 {
-  "updatedAt": "2026-11-12T18:04:22Z",
+  "updatedAt": "2026-11-12T20:56:05Z",
   "source": "daily-chatgpt-search",
-  "jobs": []
+  "jobs": [
+    {
+      "id": "whippy-associate-customer-success-manager-remote-us",
+      "title": "Associate Customer Success Manager",
+      "company": "Whippy",
+      "location": "Remote — United States (Eastern hours)",
+      "salary": "Not disclosed; monthly performance bonuses",
+      "fit": 83,
+      "resume": "C",
+      "why": "Early-career role with coaching; onboarding, customer workflows, automation, proactive communication and outcome reporting align with Salesforce training, stakeholder support and operations work.",
+      "gap": "No demonstrated account ownership, renewals, revenue retention, upselling, staffing ATS integrations or direct external customer-success experience; demanding commercial startup culture.",
+      "applyUrl": "https://jobs.ashbyhq.com/whippy/b1a3bdaa-b83b-48bc-84ed-f7c42da4cd46",
+      "keywordMatch": 76,
+      "matchedKeywords": [
+        "onboarding and training",
+        "workflow automation",
+        "stakeholder communication",
+        "cross-functional collaboration",
+        "reporting",
+        "process improvement",
+        "documentation",
+        "technical aptitude"
+      ],
+      "missingKeywords": [
+        "book-of-business ownership",
+        "renewals and expansion",
+        "revenue retention metrics",
+        "upselling",
+        "staffing ATS integrations"
+      ],
+      "jdKeywords": [
+        "customer onboarding",
+        "customer success",
+        "account retention",
+        "account expansion",
+        "automation",
+        "AI agents",
+        "workflow building",
+        "metrics",
+        "customer communication",
+        "staffing ATS"
+      ]
+    }
+  ]
 }
