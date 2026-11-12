@@ -1,53 +1,7 @@
 {
-  "updatedAt": "2026-11-11T23:55:15Z",
+  "updatedAt": "2026-11-12T00:39:48.056Z",
   "source": "daily-chatgpt-search",
   "jobs": [
-    {
-      "id": "success-academy-crm-business-analyst-5455769008",
-      "title": "CRM Business Analyst",
-      "company": "Success Academy Charter Schools",
-      "location": "New York, NY — hybrid, Tue–Thu onsite",
-      "salary": "$115,000–$125,000/year",
-      "fit": 89,
-      "resume": "A",
-      "why": "Strong Salesforce BA overlap: requirements, user stories, process mapping, UAT, training, data governance, reporting and stakeholder coordination. Original posting date unverified; live employer application confirmed November 11, 2026.",
-      "gap": "HubSpot, marketing campaign/segmentation and lead nurturing experience not established; asks 3–5 years related experience.",
-      "applyUrl": "https://job-boards.greenhouse.io/successacademycharterschool/jobs/5455769008",
-      "keywordMatch": 84,
-      "matchedKeywords": [
-        "Salesforce",
-        "requirements gathering",
-        "user stories",
-        "acceptance criteria",
-        "process mapping",
-        "UAT",
-        "training",
-        "documentation",
-        "data quality",
-        "reporting",
-        "stakeholder management",
-        "workflow automation"
-      ],
-      "missingKeywords": [
-        "HubSpot",
-        "marketing segmentation",
-        "lead nurturing",
-        "campaign execution"
-      ],
-      "jdKeywords": [
-        "Salesforce",
-        "HubSpot",
-        "CRM roadmap",
-        "requirements",
-        "user stories",
-        "process mapping",
-        "UAT",
-        "training",
-        "marketing campaigns",
-        "data governance",
-        "dashboards"
-      ]
-    },
     {
       "id": "success-academy-business-analyst-salesforce-admin-5378029008",
       "title": "Business Analyst/Salesforce Administrator",
