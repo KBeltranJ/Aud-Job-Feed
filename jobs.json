@@ -1,5 +1,50 @@
 {
-  "updatedAt": "2026-11-13T11:56:00Z",
+  "updatedAt": "2026-11-13T15:00:38Z",
   "source": "daily-chatgpt-search",
-  "jobs": []
+  "jobs": [
+    {
+      "id": "parkade-customer-support-associate-2026-11-12",
+      "title": "Customer Support Associate",
+      "company": "Parkade",
+      "location": "US remote (Pacific-time schedule preferred)",
+      "salary": "$25–$30/hour (~$52,000–$62,400/year at 40 hours/week)",
+      "fit": 77,
+      "resume": "C",
+      "why": "Audrey's Salesforce end-user issue resolution, training, onboarding workflow automation, documentation, cross-functional coordination, AI-tool familiarity and process improvements transfer to software support and support operations.",
+      "gap": "Requires direct high-volume email software customer support and Front/Zendesk/Intercom experience not established; 12–9 p.m. PT shift equals 3 p.m.–midnight ET, with weekend/evening flexibility.",
+      "applyUrl": "https://jobs.ashbyhq.com/Parkade/d49351d6-466d-436d-a85c-9de6863916f8",
+      "keywordMatch": 70,
+      "matchedKeywords": [
+        "process improvement",
+        "onboarding workflows",
+        "cross-functional coordination",
+        "issue resolution",
+        "documentation",
+        "AI tools",
+        "learning new systems",
+        "operations",
+        "independent prioritization"
+      ],
+      "missingKeywords": [
+        "high-volume email customer support",
+        "Zendesk/Front/Intercom",
+        "software-company customer support",
+        "property management"
+      ],
+      "jdKeywords": [
+        "customer SLAs",
+        "customer support",
+        "high-volume email support",
+        "Zendesk",
+        "Front",
+        "Intercom",
+        "AI tools",
+        "onboarding",
+        "operations",
+        "process improvement",
+        "issue escalation",
+        "weekend shifts"
+      ]
+    }
+  ]
 }
