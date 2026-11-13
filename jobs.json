@@ -1,49 +1,80 @@
 {
-  "updatedAt": "2026-11-13T15:00:38Z",
+  "updatedAt": "2026-11-13T17:00:00Z",
   "source": "daily-chatgpt-search",
   "jobs": [
     {
-      "id": "parkade-customer-support-associate-2026-11-12",
-      "title": "Customer Support Associate",
-      "company": "Parkade",
-      "location": "US remote (Pacific-time schedule preferred)",
-      "salary": "$25–$30/hour (~$52,000–$62,400/year at 40 hours/week)",
-      "fit": 77,
+      "id": "topline-pro-customer-onboarding-specialist-2026-11-12",
+      "title": "Customer Onboarding Specialist",
+      "company": "Topline Pro",
+      "location": "Brooklyn, NY (onsite)",
+      "salary": "$60,000 base + commission + equity ($75,000+ OTE)",
+      "fit": 85,
       "resume": "C",
-      "why": "Audrey's Salesforce end-user issue resolution, training, onboarding workflow automation, documentation, cross-functional coordination, AI-tool familiarity and process improvements transfer to software support and support operations.",
-      "gap": "Requires direct high-volume email software customer support and Front/Zendesk/Intercom experience not established; 12–9 p.m. PT shift equals 3 p.m.–midnight ET, with weekend/evening flexibility.",
-      "applyUrl": "https://jobs.ashbyhq.com/Parkade/d49351d6-466d-436d-a85c-9de6863916f8",
-      "keywordMatch": 70,
+      "why": "Audrey trained 90+ Salesforce users, created documentation, resolved workflow issues and coordinated across teams; these translate to guided customer onboarding and setup.",
+      "gap": "Direct external-customer onboarding, Google Business/Facebook integrations, and Spanish-language support not established; onsite and variable compensation.",
+      "applyUrl": "https://jobs.ashbyhq.com/topline-pro",
+      "keywordMatch": 81,
       "matchedKeywords": [
-        "process improvement",
-        "onboarding workflows",
-        "cross-functional coordination",
-        "issue resolution",
+        "onboarding",
+        "training",
         "documentation",
-        "AI tools",
-        "learning new systems",
-        "operations",
-        "independent prioritization"
+        "troubleshooting",
+        "cross-functional collaboration",
+        "process improvement",
+        "technical guidance"
       ],
       "missingKeywords": [
-        "high-volume email customer support",
-        "Zendesk/Front/Intercom",
-        "software-company customer support",
-        "property management"
+        "external customer onboarding",
+        "Google Business Profile setup",
+        "Facebook integrations",
+        "Spanish fluency"
       ],
       "jdKeywords": [
-        "customer SLAs",
-        "customer support",
-        "high-volume email support",
-        "Zendesk",
-        "Front",
-        "Intercom",
-        "AI tools",
+        "live onboarding",
+        "technical setup",
+        "Google Business Profile",
+        "Facebook",
+        "troubleshooting",
+        "customer follow-up",
+        "customer success",
+        "cross-functional coordination",
+        "Spanish"
+      ]
+    },
+    {
+      "id": "topline-pro-customer-success-associate-2026-11-12",
+      "title": "Customer Success Associate",
+      "company": "Topline Pro",
+      "location": "Brooklyn, NY (onsite)",
+      "salary": "$60,000 base + equity (third-party JD reproduction; verify employer)",
+      "fit": 82,
+      "resume": "C",
+      "why": "Salesforce end-user support, Asana coordination, documentation, workflow improvements and training are relevant to customer issue resolution and onboarding.",
+      "gap": "No established high-volume external customer service or customer-success KPI ownership; onsite and customer-facing volume.",
+      "applyUrl": "https://jobs.ashbyhq.com/topline-pro",
+      "keywordMatch": 78,
+      "matchedKeywords": [
+        "Asana",
+        "issue resolution",
+        "cross-functional coordination",
+        "documentation",
+        "training",
+        "process improvement"
+      ],
+      "missingKeywords": [
+        "high-volume external customer support",
+        "customer success metrics",
+        "direct customer phone/email queue ownership"
+      ],
+      "jdKeywords": [
+        "customer service",
+        "troubleshooting",
         "onboarding",
-        "operations",
-        "process improvement",
-        "issue escalation",
-        "weekend shifts"
+        "Asana",
+        "Google Workspace",
+        "customer communications",
+        "cross-functional support",
+        "process improvement"
       ]
     }
   ]
