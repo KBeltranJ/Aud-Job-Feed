@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2026-11-18T00:04:39Z",
+  "updatedAt": "2026-11-18T12:00:07Z",
   "source": "daily-chatgpt-search",
   "jobs": [
+    {
+      "id": "coast-business-operations-associate",
+      "title": "Business Operations Associate",
+      "company": "Coast",
+      "location": "New York, NY — 3–4 days onsite",
+      "salary": "$85,000–$110,000 + equity",
+      "fit": 88,
+      "resume": "C",
+      "why": "Cross-functional initiatives, stakeholder coordination, reporting, process improvement and practical AI-tool use align with Orion BA and operations work.",
+      "gap": "Fintech domain and demonstrated ownership of company-wide AI implementation projects; onsite 3–4 days.",
+      "applyUrl": "https://job-boards.greenhouse.io/coast/jobs/6240359004",
+      "keywordMatch": 86,
+      "matchedKeywords": [
+        "cross-functional coordination",
+        "stakeholder management",
+        "process improvement",
+        "reporting",
+        "dashboards",
+        "data analysis",
+        "documentation",
+        "AI tools",
+        "workflow automation"
+      ],
+      "missingKeywords": [
+        "fintech operations",
+        "company-wide AI implementation ownership",
+        "quarterly planning ownership"
+      ],
+      "jdKeywords": [
+        "cross-functional projects",
+        "project ownership",
+        "AI workflows",
+        "analytics",
+        "dashboards",
+        "executive communication",
+        "process improvement",
+        "stakeholder alignment"
+      ]
+    },
+    {
+      "id": "constellation-customer-success-specialist",
+      "title": "Customer Success Specialist",
+      "company": "Constellation Software, Inc.",
+      "location": "New York, NY — hybrid, 3 days onsite",
+      "salary": "$70,000–$80,000",
+      "fit": 78,
+      "resume": "C",
+      "why": "Client-deliverable coordination, onboarding support, documentation and cross-functional communication transfer from Salesforce user enablement and operations.",
+      "gap": "Direct external client management, paid digital advertising and campaign execution are not established; occasional client travel.",
+      "applyUrl": "https://job-boards.greenhouse.io/constellationsoftwareinc/jobs/4729851006",
+      "keywordMatch": 75,
+      "matchedKeywords": [
+        "cross-functional coordination",
+        "stakeholder communication",
+        "project coordination",
+        "problem solving",
+        "SaaS platforms",
+        "documentation",
+        "onboarding support"
+      ],
+      "missingKeywords": [
+        "Facebook Ads Manager",
+        "search engine marketing",
+        "external client account management",
+        "campaign execution"
+      ],
+      "jdKeywords": [
+        "customer success",
+        "SaaS onboarding",
+        "client deliverables",
+        "project management",
+        "campaigns",
+        "Facebook Ads Manager",
+        "SEM",
+        "cross-functional teams"
+      ]
+    },
     {
       "id": "success-academy-business-analyst-salesforce-administrator",
       "title": "Business Analyst/Salesforce Administrator",
