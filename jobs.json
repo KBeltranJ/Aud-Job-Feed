@@ -1,48 +1,47 @@
 {
-  "updatedAt": "2026-11-18T18:04:23Z",
+  "updatedAt": "2026-11-18T21:04:43Z",
   "source": "daily-chatgpt-search",
   "jobs": [
     {
-      "id": "sift-customer-support-specialist",
-      "title": "Customer Support Specialist",
-      "company": "Sift",
-      "location": "Remote — United States",
-      "salary": "$50,000–$80,000 estimated OTE (Zone 2; location-dependent)",
-      "fit": 85,
+      "id": "highbeam-ai-implementation-associate",
+      "title": "AI Implementation Associate",
+      "company": "Highbeam",
+      "location": "NoHo, New York City — onsite",
+      "salary": "$130,000–$180,000 base range",
+      "fit": 78,
       "resume": "C",
-      "why": "Entry-level-friendly 1–3 years or equivalent experience; troubleshooting, documentation, knowledge base contributions, cross-team escalation and AI tools align with Audrey's Salesforce user support, training, SOPs and workflow work.",
-      "gap": "Direct external customer ticket ownership, Zendesk, fraud/payments domain and API knowledge are not established. Original posting date unverified.",
-      "applyUrl": "https://jobs.ashbyhq.com/sift/e2d59988-60e4-45ba-8f60-ca9b7ddb8208/",
-      "keywordMatch": 83,
+      "why": "Hands-on AI tools, customer workflow configuration, product feedback, cross-functional implementation, and Excel analysis connect to Audrey's Salesforce process automation, stakeholder training, operations reporting and AI evaluation work.",
+      "gap": "Financial cash management, AP/AR and P&L knowledge are required; direct external customer ownership and onsite schedule are additional stretch factors. Original posting date not verified.",
+      "applyUrl": "https://jobs.ashbyhq.com/highbeam/60b69921-b805-4a8d-a6ef-bba2a3aba05d",
+      "keywordMatch": 79,
       "matchedKeywords": [
-        "software troubleshooting",
-        "documentation",
-        "knowledge base",
-        "cross-functional escalation",
-        "Salesforce",
-        "AI/LLM tools",
+        "workflow automation",
+        "process improvement",
+        "Excel analysis",
+        "cross-functional collaboration",
+        "requirements translation",
+        "AI tools (ChatGPT and Claude)",
         "stakeholder communication",
-        "process improvement"
+        "implementation support"
       ],
       "missingKeywords": [
-        "direct customer-facing help desk",
-        "Zendesk ticket ownership",
-        "fraud and payments",
-        "API familiarity"
+        "cash flow management",
+        "AP/AR",
+        "P&L analysis",
+        "direct customer financial advisory",
+        "fintech domain"
       ],
       "jdKeywords": [
-        "customer support",
-        "support tickets",
-        "troubleshooting",
-        "case documentation",
-        "knowledge base",
-        "escalation",
-        "AI tools",
-        "Zendesk",
-        "Salesforce",
-        "fraud",
-        "APIs",
-        "SQL"
+        "AI implementation",
+        "cash management",
+        "AP and bill pay",
+        "forecasting",
+        "customer workflows",
+        "product feedback",
+        "AI agents",
+        "Excel modeling",
+        "cross-functional collaboration",
+        "financial analysis"
       ]
     }
   ]
