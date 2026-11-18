@@ -1,83 +1,48 @@
 {
-  "updatedAt": "2026-11-18T14:56:00Z",
+  "updatedAt": "2026-11-18T18:04:23Z",
   "source": "daily-chatgpt-search",
   "jobs": [
     {
-      "id": "verse-medical-operations-associate",
-      "title": "Operations Associate",
-      "company": "Verse Medical",
-      "location": "New York City (Chelsea) — hybrid, 4 days onsite",
-      "salary": "$62,000 base",
-      "fit": 84,
+      "id": "sift-customer-support-specialist",
+      "title": "Customer Support Specialist",
+      "company": "Sift",
+      "location": "Remote — United States",
+      "salary": "$50,000–$80,000 estimated OTE (Zone 2; location-dependent)",
+      "fit": 85,
       "resume": "C",
-      "why": "Coordinates healthcare partners, resolves operational issues, tracks requests in CRM and collaborates across teams; Audrey's Salesforce support, training, documentation and operations coordination transfer well.",
-      "gap": "Direct external patient/customer call support, call-center software and healthcare order fulfillment are not established; four onsite days.",
-      "applyUrl": "https://jobs.ashbyhq.com/versemedical/705b2d29-4c82-4672-9631-66d483768841",
-      "keywordMatch": 82,
+      "why": "Entry-level-friendly 1–3 years or equivalent experience; troubleshooting, documentation, knowledge base contributions, cross-team escalation and AI tools align with Audrey's Salesforce user support, training, SOPs and workflow work.",
+      "gap": "Direct external customer ticket ownership, Zendesk, fraud/payments domain and API knowledge are not established. Original posting date unverified.",
+      "applyUrl": "https://jobs.ashbyhq.com/sift/e2d59988-60e4-45ba-8f60-ca9b7ddb8208/",
+      "keywordMatch": 83,
       "matchedKeywords": [
-        "CRM systems",
-        "cross-functional coordination",
-        "problem solving",
-        "stakeholder communication",
-        "operations coordination",
+        "software troubleshooting",
         "documentation",
-        "issue resolution"
+        "knowledge base",
+        "cross-functional escalation",
+        "Salesforce",
+        "AI/LLM tools",
+        "stakeholder communication",
+        "process improvement"
       ],
       "missingKeywords": [
-        "call center software",
-        "direct patient support",
-        "healthcare order fulfillment"
+        "direct customer-facing help desk",
+        "Zendesk ticket ownership",
+        "fraud and payments",
+        "API familiarity"
       ],
       "jdKeywords": [
-        "patient coordination",
-        "healthcare partners",
-        "troubleshooting",
         "customer support",
-        "CRM",
-        "helpdesk",
-        "call center software",
-        "cross-functional collaboration"
-      ]
-    },
-    {
-      "id": "sharegain-business-operations-associate",
-      "title": "Business Operations Associate",
-      "company": "Sharegain",
-      "location": "New York, NY — hybrid",
-      "salary": "$70,000–$80,000 base",
-      "fit": 87,
-      "resume": "C",
-      "why": "Project coordination, process playbooks, trackers, AI tools, cross-functional onboarding and senior stakeholder communication align closely with Orion and Horizon Blue ABA operations work.",
-      "gap": "Fintech knowledge, external client onboarding and event logistics are not demonstrated; original posting date appears Nov 5, outside 7-day priority.",
-      "applyUrl": "https://careers.sharegain.com/jobs/8674138-business-operations-associate",
-      "keywordMatch": 88,
-      "matchedKeywords": [
-        "project coordination",
-        "business operations",
-        "process documentation",
-        "trackers",
+        "support tickets",
+        "troubleshooting",
+        "case documentation",
+        "knowledge base",
+        "escalation",
         "AI tools",
-        "stakeholder management",
-        "cross-functional coordination",
-        "reporting",
-        "workflow automation"
-      ],
-      "missingKeywords": [
-        "securities lending",
-        "external client onboarding",
-        "conference logistics",
-        "business development prospecting"
-      ],
-      "jdKeywords": [
-        "business operations",
-        "project management",
-        "client onboarding",
-        "business development",
-        "documented processes",
-        "trackers",
-        "playbooks",
-        "AI tools",
-        "stakeholder communication"
+        "Zendesk",
+        "Salesforce",
+        "fraud",
+        "APIs",
+        "SQL"
       ]
     }
   ]
