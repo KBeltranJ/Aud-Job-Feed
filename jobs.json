@@ -1,201 +1,83 @@
 {
-  "updatedAt": "2026-11-18T12:00:07Z",
+  "updatedAt": "2026-11-18T14:56:00Z",
   "source": "daily-chatgpt-search",
   "jobs": [
     {
-      "id": "coast-business-operations-associate",
-      "title": "Business Operations Associate",
-      "company": "Coast",
-      "location": "New York, NY — 3–4 days onsite",
-      "salary": "$85,000–$110,000 + equity",
-      "fit": 88,
+      "id": "verse-medical-operations-associate",
+      "title": "Operations Associate",
+      "company": "Verse Medical",
+      "location": "New York City (Chelsea) — hybrid, 4 days onsite",
+      "salary": "$62,000 base",
+      "fit": 84,
       "resume": "C",
-      "why": "Cross-functional initiatives, stakeholder coordination, reporting, process improvement and practical AI-tool use align with Orion BA and operations work.",
-      "gap": "Fintech domain and demonstrated ownership of company-wide AI implementation projects; onsite 3–4 days.",
-      "applyUrl": "https://job-boards.greenhouse.io/coast/jobs/6240359004",
-      "keywordMatch": 86,
+      "why": "Coordinates healthcare partners, resolves operational issues, tracks requests in CRM and collaborates across teams; Audrey's Salesforce support, training, documentation and operations coordination transfer well.",
+      "gap": "Direct external patient/customer call support, call-center software and healthcare order fulfillment are not established; four onsite days.",
+      "applyUrl": "https://jobs.ashbyhq.com/versemedical/705b2d29-4c82-4672-9631-66d483768841",
+      "keywordMatch": 82,
       "matchedKeywords": [
+        "CRM systems",
         "cross-functional coordination",
-        "stakeholder management",
-        "process improvement",
-        "reporting",
-        "dashboards",
-        "data analysis",
+        "problem solving",
+        "stakeholder communication",
+        "operations coordination",
         "documentation",
+        "issue resolution"
+      ],
+      "missingKeywords": [
+        "call center software",
+        "direct patient support",
+        "healthcare order fulfillment"
+      ],
+      "jdKeywords": [
+        "patient coordination",
+        "healthcare partners",
+        "troubleshooting",
+        "customer support",
+        "CRM",
+        "helpdesk",
+        "call center software",
+        "cross-functional collaboration"
+      ]
+    },
+    {
+      "id": "sharegain-business-operations-associate",
+      "title": "Business Operations Associate",
+      "company": "Sharegain",
+      "location": "New York, NY — hybrid",
+      "salary": "$70,000–$80,000 base",
+      "fit": 87,
+      "resume": "C",
+      "why": "Project coordination, process playbooks, trackers, AI tools, cross-functional onboarding and senior stakeholder communication align closely with Orion and Horizon Blue ABA operations work.",
+      "gap": "Fintech knowledge, external client onboarding and event logistics are not demonstrated; original posting date appears Nov 5, outside 7-day priority.",
+      "applyUrl": "https://careers.sharegain.com/jobs/8674138-business-operations-associate",
+      "keywordMatch": 88,
+      "matchedKeywords": [
+        "project coordination",
+        "business operations",
+        "process documentation",
+        "trackers",
         "AI tools",
+        "stakeholder management",
+        "cross-functional coordination",
+        "reporting",
         "workflow automation"
       ],
       "missingKeywords": [
-        "fintech operations",
-        "company-wide AI implementation ownership",
-        "quarterly planning ownership"
+        "securities lending",
+        "external client onboarding",
+        "conference logistics",
+        "business development prospecting"
       ],
       "jdKeywords": [
-        "cross-functional projects",
-        "project ownership",
-        "AI workflows",
-        "analytics",
-        "dashboards",
-        "executive communication",
-        "process improvement",
-        "stakeholder alignment"
-      ]
-    },
-    {
-      "id": "constellation-customer-success-specialist",
-      "title": "Customer Success Specialist",
-      "company": "Constellation Software, Inc.",
-      "location": "New York, NY — hybrid, 3 days onsite",
-      "salary": "$70,000–$80,000",
-      "fit": 78,
-      "resume": "C",
-      "why": "Client-deliverable coordination, onboarding support, documentation and cross-functional communication transfer from Salesforce user enablement and operations.",
-      "gap": "Direct external client management, paid digital advertising and campaign execution are not established; occasional client travel.",
-      "applyUrl": "https://job-boards.greenhouse.io/constellationsoftwareinc/jobs/4729851006",
-      "keywordMatch": 75,
-      "matchedKeywords": [
-        "cross-functional coordination",
-        "stakeholder communication",
-        "project coordination",
-        "problem solving",
-        "SaaS platforms",
-        "documentation",
-        "onboarding support"
-      ],
-      "missingKeywords": [
-        "Facebook Ads Manager",
-        "search engine marketing",
-        "external client account management",
-        "campaign execution"
-      ],
-      "jdKeywords": [
-        "customer success",
-        "SaaS onboarding",
-        "client deliverables",
+        "business operations",
         "project management",
-        "campaigns",
-        "Facebook Ads Manager",
-        "SEM",
-        "cross-functional teams"
-      ]
-    },
-    {
-      "id": "success-academy-business-analyst-salesforce-administrator",
-      "title": "Business Analyst/Salesforce Administrator",
-      "company": "Success Academy Charter Schools",
-      "location": "New York, NY — hybrid Tue–Thu onsite",
-      "salary": "$110,000–$120,000",
-      "fit": 91,
-      "resume": "A",
-      "why": "Direct Salesforce administration, reporting, data integrity, UAT, user training and BA requirements overlap with Orion work; distinct from the CRM BA position already applied to.",
-      "gap": "Salesforce administrator certification recommended; education/enrollment data and Sales/Service/Marketing Cloud breadth not established. Same employer as prior application.",
-      "applyUrl": "https://job-boards.greenhouse.io/successacademycharterschool/jobs/5378029008",
-      "keywordMatch": 91,
-      "matchedKeywords": [
-        "Salesforce",
-        "reports",
-        "dashboards",
-        "Flow",
-        "validation rules",
-        "Data Loader",
-        "data quality",
-        "requirements gathering",
-        "UAT",
-        "training",
-        "Agile",
-        "stakeholder management"
-      ],
-      "missingKeywords": [
-        "enrollment systems",
-        "Marketing Cloud",
-        "Salesforce Administrator certification"
-      ],
-      "jdKeywords": [
-        "Salesforce administration",
-        "data quality",
-        "flows",
-        "reports",
-        "dashboards",
-        "Data Loader",
-        "requirements",
-        "UAT",
-        "end-user training",
-        "permissions"
-      ]
-    },
-    {
-      "id": "renterra-customer-success-associate",
-      "title": "Customer Success Associate",
-      "company": "Renterra",
-      "location": "US remote — 9 AM–5 PM Pacific",
-      "salary": "$50,000 base; $0–$20,000 bonus",
-      "fit": 84,
-      "resume": "C",
-      "why": "Knowledge-base writing, training, troubleshooting, cross-team coordination and improving software workflows directly transfer from Orion Salesforce user support.",
-      "gap": "Requests 1–2+ years dedicated SaaS customer success; equipment rental and QuickBooks experience not established. Pacific hours required.",
-      "applyUrl": "https://jobs.ashbyhq.com/Renterra/ecdc0cd2-c561-4740-b469-d6469b580e9c/",
-      "keywordMatch": 84,
-      "matchedKeywords": [
-        "documentation",
-        "knowledge base",
-        "technical problem solving",
-        "stakeholder communication",
-        "process improvement",
-        "cross-functional collaboration",
-        "SaaS platforms"
-      ],
-      "missingKeywords": [
-        "direct external customer success",
-        "equipment rental industry",
-        "QuickBooks Online"
-      ],
-      "jdKeywords": [
-        "customer success",
-        "post-sale support",
-        "technical concerns",
-        "helpdesk articles",
-        "customer feedback",
-        "product collaboration",
-        "SaaS",
-        "QuickBooks"
-      ]
-    },
-    {
-      "id": "topline-pro-customer-success-associate",
-      "title": "Customer Success Associate",
-      "company": "Topline Pro",
-      "location": "Brooklyn, NY — onsite expectations to confirm",
-      "salary": "$60,000 base + equity",
-      "fit": 82,
-      "resume": "C",
-      "why": "Asana, tech troubleshooting, user support, process documentation and cross-team coordination align with Audrey's Salesforce training and operations experience.",
-      "gap": "High-volume phone/text/email external customer service not demonstrated; interview process includes onsite case study. Original posting date unverified; direct page intermittently unavailable.",
-      "applyUrl": "https://jobs.ashbyhq.com/topline-pro/ae6b8100-8796-477c-bdd9-50a4a0d834f4",
-      "keywordMatch": 80,
-      "matchedKeywords": [
-        "Asana",
-        "technical troubleshooting",
-        "training",
-        "process improvement",
-        "cross-functional coordination",
-        "communication",
-        "organization"
-      ],
-      "missingKeywords": [
-        "high-volume customer phone support",
-        "external customer success",
-        "Spanish fluency"
-      ],
-      "jdKeywords": [
-        "customer support",
-        "calls",
-        "texts",
-        "emails",
-        "troubleshooting",
-        "onboarding",
-        "Asana",
-        "cross-functional collaboration",
-        "process improvement"
+        "client onboarding",
+        "business development",
+        "documented processes",
+        "trackers",
+        "playbooks",
+        "AI tools",
+        "stakeholder communication"
       ]
     }
   ]
