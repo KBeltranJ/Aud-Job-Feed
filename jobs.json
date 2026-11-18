@@ -1,48 +1,5 @@
 {
-  "updatedAt": "2026-11-18T21:04:43Z",
+  "updatedAt": "2026-11-18T23:56:33Z",
   "source": "daily-chatgpt-search",
-  "jobs": [
-    {
-      "id": "highbeam-ai-implementation-associate",
-      "title": "AI Implementation Associate",
-      "company": "Highbeam",
-      "location": "NoHo, New York City — onsite",
-      "salary": "$130,000–$180,000 base range",
-      "fit": 78,
-      "resume": "C",
-      "why": "Hands-on AI tools, customer workflow configuration, product feedback, cross-functional implementation, and Excel analysis connect to Audrey's Salesforce process automation, stakeholder training, operations reporting and AI evaluation work.",
-      "gap": "Financial cash management, AP/AR and P&L knowledge are required; direct external customer ownership and onsite schedule are additional stretch factors. Original posting date not verified.",
-      "applyUrl": "https://jobs.ashbyhq.com/highbeam/60b69921-b805-4a8d-a6ef-bba2a3aba05d",
-      "keywordMatch": 79,
-      "matchedKeywords": [
-        "workflow automation",
-        "process improvement",
-        "Excel analysis",
-        "cross-functional collaboration",
-        "requirements translation",
-        "AI tools (ChatGPT and Claude)",
-        "stakeholder communication",
-        "implementation support"
-      ],
-      "missingKeywords": [
-        "cash flow management",
-        "AP/AR",
-        "P&L analysis",
-        "direct customer financial advisory",
-        "fintech domain"
-      ],
-      "jdKeywords": [
-        "AI implementation",
-        "cash management",
-        "AP and bill pay",
-        "forecasting",
-        "customer workflows",
-        "product feedback",
-        "AI agents",
-        "Excel modeling",
-        "cross-functional collaboration",
-        "financial analysis"
-      ]
-    }
-  ]
+  "jobs": []
 }
