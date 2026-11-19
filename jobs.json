@@ -1,5 +1,49 @@
 {
-  "updatedAt": "2026-11-19T14:56:39Z",
+  "updatedAt": "2026-11-19T18:03:13Z",
   "source": "daily-chatgpt-search",
-  "jobs": []
+  "jobs": [
+    {
+      "id": "cherry-customer-support-specialist-day-shift",
+      "title": "Customer Support Specialist (Day Shift)",
+      "company": "Cherry Technologies",
+      "location": "Remote — United States",
+      "salary": "$75,000 base + $25,000 variable target ($100,000 OTE)",
+      "fit": 79,
+      "resume": "C",
+      "why": "Salesforce stakeholder support, issue resolution, Excel reporting, cross-functional coordination and process improvements transfer to customer operations. Original posting date unverified.",
+      "gap": "No demonstrated high-volume external phone/chat/SMS support, consumer lending experience, or direct de-escalation ownership; weekends/holidays possible.",
+      "applyUrl": "https://jobs.ashbyhq.com/withcherry/7f855c87-df26-4cf0-b2e0-df2e1b09b20a",
+      "keywordMatch": 76,
+      "matchedKeywords": [
+        "Excel",
+        "Google Sheets",
+        "issue resolution",
+        "process improvement",
+        "cross-functional collaboration",
+        "documentation",
+        "communication",
+        "attention to detail"
+      ],
+      "missingKeywords": [
+        "high-volume omnichannel customer support",
+        "consumer lending",
+        "fintech support",
+        "customer de-escalation",
+        "phone/chat/SMS queue ownership"
+      ],
+      "jdKeywords": [
+        "customer support",
+        "provider and consumer inquiries",
+        "phone",
+        "live chat",
+        "email",
+        "SMS",
+        "de-escalation",
+        "Excel",
+        "Google Sheets",
+        "process improvement",
+        "cross-functional collaboration"
+      ]
+    }
+  ]
 }
