@@ -1,46 +1,5 @@
 {
-  "updatedAt": "2026-11-21T15:00:00Z",
+  "updatedAt": "2026-11-21T18:03:33Z",
   "source": "daily-chatgpt-search",
-  "jobs": [
-    {
-      "id": "daisy-operations-associate-nyc",
-      "title": "Operations Associate",
-      "company": "Daisy",
-      "location": "New York City, NY (hybrid)",
-      "salary": "$70,000–$80,000 base + equity",
-      "fit": 84,
-      "resume": "C",
-      "why": "Coordinates applications, records, stakeholders, deadlines, SOPs and process improvements; Audrey has transferable operations, data integrity, documentation and cross-team coordination experience. Original posting date unverified.",
-      "gap": "No direct NYC co-op/condo transfer experience; property transaction processes require training.",
-      "applyUrl": "https://jobs.ashbyhq.com/daisy-inc/30323463-e689-403e-9dfc-e862a70a663a",
-      "keywordMatch": 81,
-      "matchedKeywords": [
-        "operations",
-        "cross-functional coordination",
-        "documentation",
-        "SOPs",
-        "process improvement",
-        "data accuracy",
-        "stakeholder communication",
-        "workflow automation"
-      ],
-      "missingKeywords": [
-        "co-op/condo transactions",
-        "leasing and renewals",
-        "attorney/lender due diligence",
-        "move-in coordination"
-      ],
-      "jdKeywords": [
-        "transaction coordination",
-        "applications",
-        "due diligence",
-        "payments",
-        "stakeholder communication",
-        "SOPs",
-        "process improvement",
-        "property management",
-        "attention to detail"
-      ]
-    }
-  ]
+  "jobs": []
 }
