@@ -1,5 +1,40 @@
 {
-  "updatedAt": "2026-11-23T17:59:40.000Z",
+  "updatedAt": "2026-11-23T21:03:17.000Z",
   "source": "daily-chatgpt-search",
-  "jobs": []
+  "jobs": [
+    {
+      "id": "cape-operations-analyst-consumer",
+      "title": "Operations Analyst, Consumer",
+      "company": "Cape",
+      "location": "New York, NY (hybrid)",
+      "salary": "$100,000–$110,000",
+      "fit": 78,
+      "resume": "C",
+      "why": "Customer-facing operations and high-volume workflows align with Salesforce user support, issue resolution, data QA, reporting, and cross-functional coordination.",
+      "gap": "Direct telecom/mobile-carrier operations and frontline customer success experience are not established; original posting date unverified.",
+      "applyUrl": "https://jobs.ashbyhq.com/cape/ba0cdd14-ad58-4b90-b036-d6d4d77f125e",
+      "keywordMatch": 74,
+      "matchedKeywords": [
+        "operations",
+        "cross-functional collaboration",
+        "customer support",
+        "issue resolution",
+        "process improvement",
+        "data accuracy"
+      ],
+      "missingKeywords": [
+        "telecommunications operations",
+        "mobile carrier domain",
+        "direct frontline customer success"
+      ],
+      "jdKeywords": [
+        "customer success",
+        "high-volume workflows",
+        "technical operations",
+        "telecommunications",
+        "cross-functional collaboration",
+        "customer experience"
+      ]
+    }
+  ]
 }
